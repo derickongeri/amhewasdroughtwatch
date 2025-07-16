@@ -1,0 +1,33 @@
+/* Justify all paragraph text */
+p {
+  text-align: justify;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+td,
+th {
+  text-align: left;
+}
+
+html {
+    --pst-color-heading: #B4A269;
+}
+
+.bd-header {
+    background-color: #B4A269 !important; /* Navbar background */
+    color: white;
+}
+
+.bd-header a {
+    color: white !important; /* Navbar link text */
+}
+
+.bd-header a:hover {
+    color: #ffcc00 !important; /* Hover color */
+}
