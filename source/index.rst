@@ -9,23 +9,22 @@
         <img src="_static/images/amhewas.png" alt="Partners and Donors Logos" class="partners-logo">
     </div>
 
-.. raw:: html
+.. .. raw:: html
 
-    <div class="partners-logo-wrapper">
-        <img src="_static/images/bunnerImg.png" alt="Partners and Donors Logos" class="partners-logo">
-    </div>
+..     <div class="partners-logo-wrapper" style="height:25%">
+..         <img src="_static/images/bunnerImg.png" alt="Partners and Donors Logos" class="partners-logo">
+..     </div>
 
-.. .. image:: _static/images/amhewas.png
-..     :height: 100
-..     :width: 650
-..     :alt: partners
-..     :align: center
+.. image:: _static/images/bunnerImg.png
+    :height: 300
+    :width: 700
+    :alt: partners
+    :align: center
 
 
-Introduction
---------------
 
-**Tracking Drought. Informing Action. Empowering Decisions**
+Tracking Drought. Informing Action. Empowering Decisions
+----------------------------------------------------------
 
 The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking and anticipating drought conditions across the continent. Produced monthly by the African Union Commission through the Africa Multi-Hazard Early Warning and Action System (AMHEWAS) programme, the bulletin provides timely insights to inform preparedness, anticipatory action, response, recovery and policy decisions for longer-term resilience building.
 The ADW is a monthly drought monitoring and early warning product providing a holistic and comprehensive analysis/overview/situation-overview of ongoing short-term and long-term (link to section) drought conditions and associated impacts across the African continent. By integrating seasonal forecasts information, the bulletin provides an overview/estimation of projected impacts and trends, informing proactive/anticipatory action and response and resilience building. 
@@ -179,7 +178,7 @@ Frequently Asked Questions
 
 
 Donors, Partners, and Contributors
-==================================
+-----------------------------------
 
 This bulletin is made possible through collaboration with:
 

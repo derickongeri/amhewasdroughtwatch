@@ -44,10 +44,9 @@ html_theme_options = {
 "navbar_persistent": ["search-button"],
 "logo": {
     "image_light": "_static/images/logodefault.png",
-    "image_dark": "_static/images/dark_logo.png",
+    "image_dark": "_static/images/logodefault.png",
 },
 "secondary_sidebar_items": [],
 "collapse_navigation": True,
-"header_background": "#004080",
 }
 
