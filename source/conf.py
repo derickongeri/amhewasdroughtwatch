@@ -37,14 +37,28 @@ html_sidebars = {
 }
 
 html_theme_options = {
-
+"external_links": [
+    {
+        "url": "https://au.int/en/directorates/sustainable-environment#",
+        "name": "Read More",
+    },
+    # {
+    #     "url": "https://numfocus.org/",
+    #     "name": "NumFocus",
+    # },
+    # {
+    #     "url": "https://numfocus.org/donate",
+    #     "name": "Donate to NumFocus",
+    # },
+],
 "navbar_start": ["navbar-logo"],
 "navbar_center": ["navbar-nav"],
+"navbar_align": "content",
 "navbar_end": ["navbar-icon-links"],
 "navbar_persistent": ["search-button"],
 "logo": {
-    "image_light": "_static/images/logodefault.png",
-    "image_dark": "_static/images/logodefault.png",
+    "image_light": "_static/images/logodefault.svg",
+    "image_dark": "_static/images/logodefault.svg",
 },
 "secondary_sidebar_items": [],
 "collapse_navigation": True,

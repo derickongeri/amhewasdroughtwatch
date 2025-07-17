@@ -20,8 +20,9 @@ html {
 }
 
 .bd-header {
-    background-color: #B4A269 !important; /* Navbar background */
+    background-color: #9D1531 !important; /* Navbar background */
     color: white;
+    padding: 10px;
 }
 
 .bd-header a {
@@ -29,5 +30,5 @@ html {
 }
 
 .bd-header a:hover {
-    color: #ffcc00 !important; /* Hover color */
+    color: #B4A269 !important; /* Hover color */
 }
