@@ -9,7 +9,7 @@ langs=(en fr pt ar)
 
 for lang in "${langs[@]}"; do
   echo "Building $lang..."
-  SPHINX_LANGUAGE=$lang sphinx-build -b html source build/$lang
+  SPHINX_LANGUAGE=$lang sphinx-build -b html source build/html/$lang
 done
 
 
