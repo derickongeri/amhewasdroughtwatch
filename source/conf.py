@@ -45,7 +45,12 @@ html_sidebars = {
 html_theme_options = {
 
 "switcher": {
-    "json_url": "switcher.json",
+    "json_url": [
+  { "name": "English", "url": "/en/", "lang": "en" },
+  { "name": "Français", "url": "/fr/", "lang": "fr" },
+  { "name": "Português", "url": "/pt/", "lang": "pt" },
+  { "name": "العربية", "url": "/ar/", "lang": "ar" }
+],
     "version_match": language,
 },
 "translations": {
