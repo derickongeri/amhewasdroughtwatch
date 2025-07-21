@@ -43,7 +43,7 @@ html_sidebars = {
 }
 
 html_theme_options = {
-"navbar_end": ["language-switcher", "navbar-icon-links"],
+
 "switcher": {
     "json_url": "/switcher.json",
     "version_match": language,
@@ -68,7 +68,7 @@ html_theme_options = {
 "navbar_start": ["navbar-logo"],
 "navbar_center": ["navbar-nav"],
 "navbar_align": "right",
-"navbar_end": ["navbar-icon-links"],
+"navbar_end": ["language-switcher", "navbar-icon-links"],
 "navbar_persistent": ["search-button"],
 "logo": {
     "image_light": "_static/images/logo.svg",
