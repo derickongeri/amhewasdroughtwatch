@@ -1,5 +1,5 @@
-FAQ
-=====
+Frequently Asked Questions
+=============================
 
 .. _who-produces:
 

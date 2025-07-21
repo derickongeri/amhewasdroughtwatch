@@ -3,19 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. raw:: html
+.. .. raw:: html
 
-    <div class="partners-logo-wrapper">
-        <img src="_static/images/amhewas.png" alt="Partners and Donors Logos" class="partners-logo">
-    </div>
-
-African Drought Bulleting
----------------------------
+..     <div class="partners-logo-wrapper">
+..         <img src="_static/images/amhewas.png" alt="Partners and Donors Logos" class="partners-logo">
+..     </div>
 
 .. raw:: html
 
     <div class="partners-logo-wrapper">
-        <img src="_static/images/bunnerImg.png" alt="Partners and Donors Logos" class="partners-logo" style="width: 100%; height: auto; max-height: 25vh;">
+        <img src="_static/images/drought.png" alt="Partners and Donors Logos" class="partners-logo" style="width: 100%; height: auto; max-height: 50vh;">
     </div>
 
 .. .. image:: _static/images/bunnerImg.png
@@ -34,8 +31,8 @@ To ensure inclusivity the ADW bulletin is generated through a collaborative and 
 
 .. raw:: html
 
-    <div style="border: 2px solid #9F2241; padding: 1.5em; border-radius: 10px; background-color:rgb(159, 34, 65); margin: 1.5em 0;">
-        <h2 style="color:white; margin-top: 0;">Subscribe to Our Newsleter</h2>
+    <div style="border: 2px solid #b4a269; padding: 1.5em; border-radius: 1 0px; background-color: #b4a269; margin: 1.5em 0;">
+        <h2 style="color:white; margin-top: 0;">Subscribe to the bulletin</h2>
         <p style="font-size: 1.1em; color:white;">
             Join our growing network of drought risk, early warning, anticipatory action, and DRR professionals,
             policymakers, and humanitarian actors. Subscribers receive:
@@ -47,7 +44,7 @@ To ensure inclusivity the ADW bulletin is generated through a collaborative and 
         </ul>
         <div style="margin-top: 1em;">
             <a href="https://amhewas-drought-bulletin.mailchimpsites.com/subscribe" style="text-decoration: none;">
-                <button style="background-color: black; color: white; border: none; padding: 0.75em 1.5em; font-size: 1em; border-radius: 5px; cursor: pointer;">
+                <button style="background-color: #9D1531; color: white; border: none; padding: 0.75em 1.5em; font-size: 1em; border-radius: 5px; cursor: pointer;">
                     Subscribe Now!
                 </button>
             </a>
