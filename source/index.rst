@@ -12,7 +12,7 @@
 .. raw:: html
 
     <div class="partners-logo-wrapper">
-        <img src="_static/images/drought.png" alt="Partners and Donors Logos" class="partners-logo" style="width: 100%; height: auto; max-height: 50vh;padding-bottom:20px">
+        <img src="_static/images/drought2.png" alt="Partners and Donors Logos" class="partners-logo" style="width: 100%; height: auto; max-height: 50vh;padding-bottom:20px">
     </div>
 
 .. .. image:: _static/images/bunnerImg.png
