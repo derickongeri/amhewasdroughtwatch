@@ -1,0 +1,293 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, AMHEWAS
+# This file is distributed under the same license as the Africa Drought
+# Bulletin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Africa Drought Bulletin \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-21 17:23+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../source/Introduction/index.rst:147
+msgid "Continent"
+msgstr ""
+
+#: ../source/Introduction/index.rst:14
+msgid "Home"
+msgstr ""
+
+#: ../source/Introduction/index.rst:16
+msgid "**Tracking Drought. Informing Action. Empowering Decisions**"
+msgstr ""
+
+#: ../source/Introduction/index.rst:18
+msgid ""
+"The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking"
+" and anticipating drought conditions across the continent. Produced "
+"monthly by the African Union Commission through the Africa Multi-Hazard "
+"Early Warning and Action System (AMHEWAS) programme, the bulletin "
+"provides timely insights to inform preparedness, anticipatory action, "
+"response, recovery and policy decisions for longer-term resilience "
+"building. The ADW is a monthly drought monitoring and early warning "
+"product providing a holistic and comprehensive analysis/overview"
+"/situation-overview of ongoing short-term and long-term (link to section)"
+" drought conditions and associated impacts across the African continent. "
+"By integrating seasonal forecasts information, the bulletin provides an "
+"overview/estimation of projected impacts and trends, informing "
+"proactive/anticipatory action and response and resilience building. To "
+"ensure inclusivity the ADW bulletin is generated through a collaborative "
+"and inclusive approach through co-production process that brings together"
+" continental and regional AMHEWAS situation rooms, RECS and RCCs."
+msgstr ""
+
+#: ../source/Introduction/index.rst:25
+msgid "**Join AMHEWAS and stay ahead of drought risks in Africa.**"
+msgstr ""
+
+#: ../source/Introduction/index.rst:27
+msgid ""
+"Join our growing network of drought risk, early warning, anticipatory "
+"action and DRR professionals, policymakers, and humanitarian actors. "
+"Subscribers receive:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:30
+msgid "The latest bulletin in their inbox"
+msgstr ""
+
+#: ../source/Introduction/index.rst:31
+msgid "Updates on drought outlooks and special advisories"
+msgstr ""
+
+#: ../source/Introduction/index.rst:32
+msgid "Periodic policy briefs"
+msgstr ""
+
+#: ../source/Introduction/index.rst:41
+msgid "Why it matters"
+msgstr ""
+
+#: ../source/Introduction/index.rst:43
+msgid ""
+"Africa faces more frequent, severe, and prolonged droughts. Drought "
+"monitoring and early warning are critical in mitigating and managing "
+"drought risks and drought emergencies. Africa needs to be better "
+"prepared. The Drought Bulletin helps:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:47
+msgid "Trigger anticipatory action before impacts escalate"
+msgstr ""
+
+#: ../source/Introduction/index.rst:48
+msgid "Inform regional coordination and cross-border response"
+msgstr ""
+
+#: ../source/Introduction/index.rst:49
+msgid "Support long-term planning and investment in resilience"
+msgstr ""
+
+#: ../source/Introduction/index.rst:51
+msgid "With timely, science-based alerts, we move from reacting to anticipating."
+msgstr ""
+
+#: ../source/Introduction/index.rst:56
+msgid "What is the Bulletin?"
+msgstr ""
+
+#: ../source/Introduction/index.rst:58
+msgid "The Drought Bulletin is a monthly publication offering:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:60
+msgid ""
+"Continental drought monitoring using satellite, ground data, and regional"
+" expertise"
+msgstr ""
+
+#: ../source/Introduction/index.rst:61
+msgid "Drought risk outlooks for the months ahead"
+msgstr ""
+
+#: ../source/Introduction/index.rst:62
+msgid "Policy-relevant messages to inform early action and coordination"
+msgstr ""
+
+#: ../source/Introduction/index.rst:63
+msgid "Visuals and maps to quickly interpret severity and spread"
+msgstr ""
+
+#: ../source/Introduction/index.rst:65
+msgid ""
+"Whether you’re a policymaker, humanitarian responder, or researcher, the "
+"bulletin supports early decision-making and resilience building."
+msgstr ""
+
+#: ../source/Introduction/index.rst:68
+msgid "*View the latest bulletin* (link)"
+msgstr ""
+
+#: ../source/Introduction/index.rst:73
+msgid "Definitions and Terminology"
+msgstr ""
+
+#: ../source/Introduction/index.rst:75
+msgid ""
+"**Drought**: A prolonged period of abnormally low rainfall, leading to a "
+"shortage of water that can negatively impact agriculture, ecosystems, and"
+" human activities"
+msgstr ""
+
+#: ../source/Introduction/index.rst:78
+msgid ""
+"**Combined Drought Indicator (CDI)**: An integrated indicator combining "
+"precipitation, soil moisture and vegetation conditions to provide a "
+"holistic drought severity classification"
+msgstr ""
+
+#: ../source/Introduction/index.rst:82
+msgid "**Short-term drought**:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:84
+msgid ""
+"**Long-term drought**: Droughts that persist for many months or years and"
+" impact hydrological systems, groundwater, ecosystems and socio-economic "
+"systems. Long- term droughts are typically associated with cumulative "
+"rainfall deficits over extended periods. The Bulletin monitors long-term "
+"drought using the 12-month Standardized Precipitation Index (SPI-12), "
+"which captures rainfall deficit over the past 12 months."
+msgstr ""
+
+#: ../source/Introduction/index.rst:90
+msgid "**Types of drought**:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:92
+msgid "Meteorological"
+msgstr ""
+
+#: ../source/Introduction/index.rst:93
+msgid "Agricultural"
+msgstr ""
+
+#: ../source/Introduction/index.rst:94
+msgid "Hydrological"
+msgstr ""
+
+#: ../source/Introduction/index.rst:95
+msgid "Ecological"
+msgstr ""
+
+#: ../source/Introduction/index.rst:96
+msgid "Socio-economic"
+msgstr ""
+
+#: ../source/Introduction/index.rst:98
+msgid "**Ecosystem drought**: ?"
+msgstr ""
+
+#: ../source/Introduction/index.rst:100
+msgid ""
+"**Standardized Precipitation Index (SPI)**: The Standardized "
+"Precipitation Index, or SPI, is a drought index that captures how "
+"observed precipitation deviates from the climatological average over a "
+"given time period."
+msgstr ""
+
+#: ../source/Introduction/index.rst:107
+msgid "Methodology"
+msgstr ""
+
+#: ../source/Introduction/index.rst:109
+msgid ""
+"The ADW maps give information about drought hazards that could pose a "
+"risk to human communities. Current drought conditions are described using"
+" two metrics, the Combined Drought Indicator (CDI) and the 12-month "
+"Standardized Precipitation Index (SPI-12), which are intended to "
+"characterise the drought hazard from fast (short-term) and slow (long-"
+"term) processes respectively."
+msgstr ""
+
+#: ../source/Introduction/index.rst:115
+msgid ""
+"**CDI** combines information on precipitation anomaly, soil moisture "
+"anomaly and vegetation anomaly, thus highlighting conditions associated "
+"with meteorological and agricultural drought."
+msgstr ""
+
+#: ../source/Introduction/index.rst:117
+msgid "**SPI-12** is associated with hydrological drought."
+msgstr ""
+
+#: ../source/Introduction/index.rst:119
+msgid "The bulletin integrates multiple data sources and expert input:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:121
+msgid ""
+"Satellite-derived and model-based drought indices (e.g., SPI, fAPAR, soil"
+" moisture)"
+msgstr ""
+
+#: ../source/Introduction/index.rst:122
+msgid "Seasonal forecasts from RCCs and Global Centers"
+msgstr ""
+
+#: ../source/Introduction/index.rst:123
+msgid "Impact assessments"
+msgstr ""
+
+#: ../source/Introduction/index.rst:124
+msgid "Co-production with technical experts and end-users"
+msgstr ""
+
+#: ../source/Introduction/index.rst:126
+msgid ""
+"Data is analyzed regionally and validated through collaboration with "
+"RECs, RCCs, and national agencies."
+msgstr ""
+
+#: ../source/Introduction/index.rst:131
+msgid "How to Use the Bulletin (Interpreting the Legend)"
+msgstr ""
+
+#: ../source/Introduction/index.rst:133
+msgid "Key sections include:"
+msgstr ""
+
+#: ../source/Introduction/index.rst:135
+msgid "**Drought Situation Overview**: Current status and recent developments"
+msgstr ""
+
+#: ../source/Introduction/index.rst:136
+msgid "**Forecast and Early Warning**: Probabilistic forecasts and risk alerts"
+msgstr ""
+
+#: ../source/Introduction/index.rst:137
+msgid ""
+"**Impacts and Advisories**: Insights for agriculture, water, health, and "
+"livelihoods"
+msgstr ""
+
+#: ../source/Introduction/index.rst:138
+msgid "**Recommendations**: Suggested early actions"
+msgstr ""
+
+#: ../source/Introduction/index.rst:141
+msgid "partners"
+msgstr ""
+

@@ -1,7 +1,17 @@
 #!/bin/bash
 
 # This script automatically builds the quasar projec, stages, commits and pushes code to a remote repository on Github.
-sphinx-build -M html source/ build/
+# sphinx-build -M html source/ build/
+
+# #!/bin/bash
+
+langs=(en fr pt ar)
+
+for lang in "${langs[@]}"; do
+  echo "Building $lang..."
+  SPHINX_LANGUAGE=$lang sphinx-build -b html source build/$lang
+done
+
 
 # Define the remote repository URL
 REPO_URL="https://github.com/derickongeri/amhewasdroughtwatch.git"

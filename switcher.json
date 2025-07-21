@@ -1,0 +1,22 @@
+[
+  {
+    "name": "English",
+    "url": "/en/",
+    "lang": "en"
+  },
+  {
+    "name": "Français",
+    "url": "/fr/",
+    "lang": "fr"
+  },
+  {
+    "name": "Português",
+    "url": "/pt/",
+    "lang": "pt"
+  },
+  {
+    "name": "العربية",
+    "url": "/ar/",
+    "lang": "ar"
+  }
+]

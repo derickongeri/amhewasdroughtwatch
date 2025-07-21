@@ -14,6 +14,12 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+import os
+language = os.getenv("SPHINX_LANGUAGE", "en")
+
+locale_dirs = ['locales/']      # Path to .po translation files
+gettext_compact = False         # Optional: cleaner structure for .po files
+
 extensions = []
 
 templates_path = ['_templates']
@@ -37,9 +43,14 @@ html_sidebars = {
 }
 
 html_theme_options = {
- "translations": {
-        "On_this_page": "Quick Navigation",  # Replace this with your desired header
-    },
+"navbar_end": ["language-switcher", "navbar-icon-links"],
+"switcher": {
+    "json_url": "/switcher.json",
+    "version_match": language,
+},
+"translations": {
+    "On_this_page": "Quick Navigation",  # Replace this with your desired header
+},
 "external_links": [
     # {
     #     "url": "https://au.int/en/directorates/sustainable-environment#",
