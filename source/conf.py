@@ -33,7 +33,7 @@ html_context = {
 }
 
 html_sidebars = {
-    "**": ["search-field.html", "page-toc"]
+    "**": ["search-field.html","sidebar-nav-bs", ]
 }
 
 html_theme_options = {
