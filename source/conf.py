@@ -33,10 +33,13 @@ html_context = {
 }
 
 html_sidebars = {
-    "**": ["search-field.html","sidebar-nav-bs", "page-toc"]
+    "**": ["search-field.html", "page-toc"]
 }
 
 html_theme_options = {
+ "translations": {
+        "On_this_page": "Quick Navigation",  # Replace this with your desired header
+    },
 "external_links": [
     # {
     #     "url": "https://au.int/en/directorates/sustainable-environment#",
