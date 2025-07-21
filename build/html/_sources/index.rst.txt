@@ -12,7 +12,7 @@
 .. raw:: html
 
     <div class="partners-logo-wrapper">
-        <img src="_static/images/drought.png" alt="Partners and Donors Logos" class="partners-logo" style="width: 100%; height: auto; max-height: 50vh;">
+        <img src="_static/images/drought.png" alt="Partners and Donors Logos" class="partners-logo" style="width: 100%; height: auto; max-height: 50vh;padding-bottom:20px">
     </div>
 
 .. .. image:: _static/images/bunnerImg.png
@@ -23,7 +23,7 @@
 
 
 
-**Tracking Drought. Informing Action. Empowering Decisions**
+.. **Tracking Drought. Informing Action. Empowering Decisions**
 
 The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking and anticipating drought conditions across the continent. Produced monthly by the African Union Commission through the Africa Multi-Hazard Early Warning and Action System (AMHEWAS) programme, the bulletin provides timely insights to inform preparedness, anticipatory action, response, recovery and policy decisions for longer-term resilience building.
 The ADW is a monthly drought monitoring and early warning product providing a holistic and comprehensive analysis/overview/situation-overview of ongoing short-term and long-term (link to section) drought conditions and associated impacts across the African continent. By integrating seasonal forecasts information, the bulletin provides an overview/estimation of projected impacts and trends, informing proactive/anticipatory action and response and resilience building. 
