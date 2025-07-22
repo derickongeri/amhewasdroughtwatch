@@ -70,7 +70,7 @@ html_theme_options = {
 "navbar_center": ["navbar-nav"],
 "navbar_align": "right",
 "navbar_end": ["language-switcher", "navbar-icon-links"],
-"navbar_persistent": ["language-switcher.html"],
+"navbar_persistent": ["search-bar"],
 "logo": {
     "image_light": "_static/images/logo.svg",
     "image_dark": "_static/images/logo.svg",
