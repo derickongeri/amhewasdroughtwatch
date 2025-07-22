@@ -80,7 +80,7 @@ html_theme_options = {
 }
 
 def setup(app):
-   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "locale")
+   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "source/locale")
    app.add_message_catalog(catalog, locale_dir)
 
 
