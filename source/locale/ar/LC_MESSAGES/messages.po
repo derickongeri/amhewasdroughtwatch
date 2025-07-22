@@ -1,0 +1,1151 @@
+# Arabic translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-07-22 14:05+0300\n"
+"PO-Revision-Date: 2025-07-22 14:09+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:277
+msgid "Updated on "
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:575
+msgid "Authors"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:575
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:642
+msgid "Posts by"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:576
+msgid "Locations"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:576
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:643
+msgid "Posts from"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:577
+msgid "Languages"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:577
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:578
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:644
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:645
+msgid "Posts in"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:578
+msgid "Categories"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:579
+msgid "All posts"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:579
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:646
+msgid "Posted in"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:580
+msgid "Tags"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:580
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:647
+msgid "Posts tagged"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:605
+msgid "All Posts"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:606
+msgid "All"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/ablog/post.py:614
+msgid "Drafts"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/_termui_impl.py:556
+#, python-brace-format
+msgid "{editor}: Editing failed"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/_termui_impl.py:560
+#, python-brace-format
+msgid "{editor}: Editing failed: {e}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1124
+msgid "Aborted!"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1349
+#: docsevn/lib/python3.9/site-packages/click/core.py:1379
+#, python-brace-format
+msgid "(Deprecated) {text}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1396
+msgid "Options"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1422
+#, python-brace-format
+msgid "Got unexpected extra argument ({args})"
+msgid_plural "Got unexpected extra arguments ({args})"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1438
+#, python-brace-format
+msgid "DeprecationWarning: The command {name!r} is deprecated."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1645
+msgid "Commands"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1677
+msgid "Missing command."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:1755
+#, python-brace-format
+msgid "No such command {name!r}."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:2313
+msgid "Value must be an iterable."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:2334
+#, python-brace-format
+msgid "Takes {nargs} values but 1 was given."
+msgid_plural "Takes {nargs} values but {len} were given."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:2783
+#, python-brace-format
+msgid "env var: {var}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:2813
+msgid "(dynamic)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:2828
+#, python-brace-format
+msgid "default: {default}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/core.py:2841
+msgid "required"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/decorators.py:457
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/decorators.py:520
+msgid "Show the version and exit."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/decorators.py:541
+msgid "Show this message and exit."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:49
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:88
+#, python-brace-format
+msgid "Error: {message}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:80
+#, python-brace-format
+msgid "Try '{command} {option}' for help."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:129
+#, python-brace-format
+msgid "Invalid value: {message}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:131
+#, python-brace-format
+msgid "Invalid value for {param_hint}: {message}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:187
+msgid "Missing argument"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:189
+msgid "Missing option"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:191
+msgid "Missing parameter"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:193
+#, python-brace-format
+msgid "Missing {param_type}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:200
+#, python-brace-format
+msgid "Missing parameter: {param_name}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:220
+#, python-brace-format
+msgid "No such option: {name}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:232
+#, python-brace-format
+msgid "Did you mean {possibility}?"
+msgid_plural "(Possible options: {possibilities})"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:270
+msgid "unknown error"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/exceptions.py:277
+#, python-brace-format
+msgid "Could not open file {filename!r}: {message}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/parser.py:233
+#, python-brace-format
+msgid "Argument {name!r} takes {nargs} values."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/parser.py:415
+#, python-brace-format
+msgid "Option {name!r} does not take a value."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/parser.py:476
+#, python-brace-format
+msgid "Option {name!r} requires an argument."
+msgid_plural "Option {name!r} requires {nargs} arguments."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/click/shell_completion.py:326
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/shell_completion.py:333
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/termui.py:158
+msgid "Repeat for confirmation"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/termui.py:174
+msgid "Error: The value you entered was invalid."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/termui.py:176
+#, python-brace-format
+msgid "Error: {e.message}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/termui.py:187
+msgid "Error: The two entered values do not match."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/termui.py:243
+msgid "Error: invalid input"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/termui.py:773
+msgid "Press any key to continue..."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:267
+#, python-brace-format
+msgid ""
+"Choose from:\n"
+"\t{choices}"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:299
+#, python-brace-format
+msgid "{value!r} is not {choice}."
+msgid_plural "{value!r} is not one of {choices}."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:393
+#, python-brace-format
+msgid "{value!r} does not match the format {format}."
+msgid_plural "{value!r} does not match the formats {formats}."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:415
+#, python-brace-format
+msgid "{value!r} is not a valid {number_type}."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:471
+#, python-brace-format
+msgid "{value} is not in the range {range}."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:612
+#, python-brace-format
+msgid "{value!r} is not a valid boolean."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:636
+#, python-brace-format
+msgid "{value!r} is not a valid UUID."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:826
+msgid "file"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:828
+msgid "directory"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:830
+msgid "path"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:881
+#, python-brace-format
+msgid "{name} {filename!r} does not exist."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:890
+#, python-brace-format
+msgid "{name} {filename!r} is a file."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:898
+#, python-brace-format
+msgid "{name} {filename!r} is a directory."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:907
+#, python-brace-format
+msgid "{name} {filename!r} is not readable."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:916
+#, python-brace-format
+msgid "{name} {filename!r} is not writable."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:925
+#, python-brace-format
+msgid "{name} {filename!r} is not executable."
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/click/types.py:992
+#, python-brace-format
+msgid "{len_type} values are required, but {len_value} was given."
+msgid_plural "{len_type} values are required, but {len_value} were given."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/config.py:612
+#, python-format
+msgid "Section %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/config.py:613
+#, python-format
+msgid "Fig. %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/config.py:614
+#, python-format
+msgid "Table %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/config.py:615
+#, python-format
+msgid "Listing %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/roles.py:201
+#, python-format
+msgid "Python Enhancement Proposals; PEP %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/changes.py:76
+msgid "Builtins"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/changes.py:78
+msgid "Module level"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/latex/__init__.py:380
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/texinfo.py:171
+msgid " (in "
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:487
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/latex/__init__.py:189
+#: docsevn/lib/python3.9/site-packages/sphinx/transforms/__init__.py:131
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/manpage.py:101
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/texinfo.py:227
+#, python-format
+msgid "%b %d, %Y"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:506
+msgid "General Index"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:506
+msgid "index"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:555
+#, python-format
+msgid "Logo of %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:580
+msgid "next"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:589
+msgid "previous"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:1313
+msgid ""
+"HTML 4 is no longer supported by Sphinx. (\"html4_writer=True\" detected "
+"in configuration options)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/html/__init__.py:1327
+#, python-format
+msgid "%s %s documentation"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/latex/__init__.py:196
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:640
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:652
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/texinfo.py:502
+msgid "Index"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/builders/latex/__init__.py:199
+msgid "Release"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/directives/other.py:196
+msgid "Section author: "
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/directives/other.py:198
+msgid "Module author: "
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/directives/other.py:200
+msgid "Code author: "
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/directives/other.py:202
+msgid "Author: "
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/__init__.py:397
+#, python-format
+msgid "%s %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/changeset.py:23
+#, python-format
+msgid "Added in version %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/changeset.py:24
+#, python-format
+msgid "Changed in version %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/changeset.py:25
+#, python-format
+msgid "Deprecated since version %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/changeset.py:26
+#, python-format
+msgid "Removed in version %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:165
+#, python-format
+msgid "%s() (built-in function)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:166
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:253
+#, python-format
+msgid "%s() (%s method)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:168
+#, python-format
+msgid "%s() (class)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:170
+#, python-format
+msgid "%s (global variable or constant)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:172
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:338
+#, python-format
+msgid "%s (%s attribute)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:255
+msgid "Arguments"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:442
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:258
+msgid "Throws"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:304
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:453
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:261
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/_object.py:177
+msgid "Returns"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:306
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:263
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/_object.py:179
+msgid "Return type"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:328
+#, python-format
+msgid "%s (module)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:675
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:855
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:365
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:623
+msgid "function"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:366
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:627
+msgid "method"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:853
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:367
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:625
+msgid "class"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:368
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:624
+msgid "data"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:369
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:630
+msgid "attribute"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/javascript.py:370
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:633
+msgid "module"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:127
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:184
+#, python-format
+msgid "%s (directive)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:185
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:189
+#, python-format
+msgid ":%s: (directive option)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:213
+#, python-format
+msgid "%s (role)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:223
+msgid "directive"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:224
+msgid "directive-option"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/rst.py:225
+msgid "role"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:199
+#, python-format
+msgid "%s (C %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:298
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:436
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/_object.py:165
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:762
+msgid "Parameters"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:301
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:449
+msgid "Return values"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:673
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:856
+msgid "member"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:674
+msgid "variable"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:676
+msgid "macro"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:677
+msgid "struct"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:678
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:854
+msgid "union"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:679
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:859
+msgid "enum"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:680
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:860
+msgid "enumerator"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:681
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:857
+msgid "type"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/c/__init__.py:683
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:862
+msgid "function parameter"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:155
+msgid "Template Parameters"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:277
+#, python-format
+msgid "%s (C++ %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:858
+msgid "concept"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/cpp/__init__.py:863
+msgid "template parameter"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:107
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:244
+#, python-format
+msgid "%s() (in module %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:167
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:334
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:385
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:424
+#, python-format
+msgid "%s (in module %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:169
+#, python-format
+msgid "%s (built-in variable)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:194
+#, python-format
+msgid "%s (built-in class)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:195
+#, python-format
+msgid "%s (class in %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:249
+#, python-format
+msgid "%s() (%s class method)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:251
+#, python-format
+msgid "%s() (%s static method)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:389
+#, python-format
+msgid "%s (%s property)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:428
+#, python-format
+msgid "%s (type alias in %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:551
+msgid "Python Module Index"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:552
+msgid "modules"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:601
+msgid "Deprecated"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:626
+msgid "exception"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:628
+msgid "class method"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:629
+msgid "static method"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:631
+msgid "property"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:632
+msgid "type alias"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/__init__.py:873
+msgid " (deprecated)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/_object.py:170
+msgid "Variables"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/python/_object.py:174
+msgid "Raises"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:81
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:98
+#, python-format
+msgid "environment variable; %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:106
+#, python-format
+msgid "%s; configuration value"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:159
+msgid "Type"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:169
+msgid "Default"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:299
+#, python-format
+msgid "%s command line option"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:301
+msgid "command line option"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:424
+msgid "glossary term must be preceded by empty line"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:432
+msgid "glossary terms must not be separated by empty lines"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:438
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:451
+msgid "glossary seems to be misformatted, check indentation"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:596
+msgid "glossary term"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:597
+msgid "grammar token"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:598
+msgid "reference label"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:601
+msgid "environment variable"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:602
+msgid "program option"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:603
+msgid "document"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:641
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:653
+msgid "Module Index"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:642
+#: docsevn/lib/python3.9/site-packages/sphinx/domains/std/__init__.py:654
+msgid "Search Page"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/environment/adapters/indexentries.py:105
+#, python-format
+msgid "see %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/environment/adapters/indexentries.py:109
+#, python-format
+msgid "see also %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/environment/adapters/indexentries.py:234
+msgid "Symbols"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/graphviz.py:436
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/graphviz.py:444
+#, python-format
+msgid "[graph: %s]"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/graphviz.py:438
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/graphviz.py:446
+msgid "[graph]"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/imgmath.py:369
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/mathjax.py:53
+msgid "Link to this equation"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/linkcode.py:69
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/viewcode.py:199
+msgid "[source]"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/todo.py:69
+msgid "Todo"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/todo.py:161
+msgid "<<original entry>>"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/todo.py:163
+#, python-format
+msgid "(The <<original entry>> is located in %s, line %d.)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/todo.py:173
+msgid "original entry"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/viewcode.py:284
+msgid "[docs]"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/viewcode.py:304
+msgid "Module code"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/viewcode.py:310
+#, python-format
+msgid "<h1>Source code for %s</h1>"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/viewcode.py:336
+msgid "Overview: module code"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/viewcode.py:337
+msgid "<h1>All modules for which code is available</h1>"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/autodoc/__init__.py:1745
+#, python-format
+msgid "Bases: %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/autodoc/__init__.py:1858
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/autodoc/__init__.py:1895
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/autodoc/__init__.py:1990
+#, python-format
+msgid "alias of %s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/autodoc/__init__.py:1878
+#, python-format
+msgid "alias of TypeVar(%s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/intersphinx/_resolve.py:42
+#, python-format
+msgid "(in %s v%s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/intersphinx/_resolve.py:44
+#, python-format
+msgid "(in %s)"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/__init__.py:341
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:728
+msgid "Keyword Arguments"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:682
+msgid "Example"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:683
+msgid "Examples"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:744
+msgid "Notes"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:753
+msgid "Other Parameters"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:789
+msgid "Receives"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:793
+msgid "References"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:825
+msgid "Warns"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/ext/napoleon/docstring.py:829
+msgid "Yields"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:224
+msgid "Attention"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:225
+msgid "Caution"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:226
+msgid "Danger"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:227
+msgid "Error"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:228
+msgid "Hint"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:229
+msgid "Important"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:230
+msgid "Note"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:231
+msgid "See also"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:232
+msgid "Tip"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/locale/__init__.py:233
+msgid "Warning"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/transforms/__init__.py:142
+msgid "could not calculate translation progress!"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/transforms/__init__.py:147
+msgid "no translated elements!"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/util/docutils.py:261
+#, python-format
+msgid "unknown directive or role name: %s:%s"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:99
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:108
+msgid "Link to this definition"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:463
+msgid "Link to this term"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:497
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:502
+msgid "Link to this heading"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:506
+msgid "Link to this table"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:573
+msgid "Link to this code"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:575
+msgid "Link to this image"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/html5.py:577
+msgid "Link to this toctree"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/latex.py:981
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/manpage.py:259
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/texinfo.py:646
+msgid "Footnotes"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/manpage.py:305
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/text.py:907
+#, python-format
+msgid "[image: %s]"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/manpage.py:306
+#: docsevn/lib/python3.9/site-packages/sphinx/writers/text.py:908
+msgid "[image]"
+msgstr ""
+
+#: docsevn/lib/python3.9/site-packages/sphinxcontrib/jsmath/__init__.py:51
+msgid "Permalink to this equation"
+msgstr ""
+
+#: source/conf.py:53
+msgid "Quick Links"
+msgstr ""
+
+#: source/conf.py:54
+msgid "Section Navigation"
+msgstr ""
+

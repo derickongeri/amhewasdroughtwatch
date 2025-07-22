@@ -4,11 +4,11 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
-import os
-language = os.getenv("SPHINX_LANGUAGE", "en")
+import os.path
+from sphinx.locale import get_translation
 
-locale_dirs = ['locales/']      # Path to .po translation files
-gettext_compact = False         # Optional: cleaner structure for .po files
+catalog = "messages"
+_ = get_translation(catalog)
 
 
 # -- Project information -----------------------------------------------------
@@ -47,20 +47,11 @@ html_sidebars = {
     "**": ["search-field.html","sidebar-nav-bs", "page-toc"]
 }
 
-html_theme_options = {
 
-"switcher": {
-    "json_url": [
-  { "name": "English", "url": "/en/", "lang": "en" },
-  { "name": "Français", "url": "/fr/", "lang": "fr" },
-  { "name": "Português", "url": "/pt/", "lang": "pt" },
-  { "name": "العربية", "url": "/ar/", "lang": "ar" }
-],
-    "version_match": language,
-},
-"translations": {
-    "On_this_page": "Quick Navigation",  # Replace this with your desired header
-},
+
+html_theme_options = {
+"icon_links_label": _("Quick Links"),
+"on_this_page": _("Section Navigation"),
 "external_links": [
     # {
     #     "url": "https://au.int/en/directorates/sustainable-environment#",
@@ -87,6 +78,10 @@ html_theme_options = {
 "secondary_sidebar_items": [],
 "collapse_navigation": True,
 }
+
+def setup(app):
+   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "locale")
+   app.add_message_catalog(catalog, locale_dir)
 
 
 
