@@ -21,24 +21,10 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../source/index.rst:28
-msgid ""
-"The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking"
-" and anticipating drought conditions across the continent. Produced "
-"monthly by the African Union Commission through the Africa Multi-Hazard "
-"Early Warning and Action System (AMHEWAS) programme, the bulletin "
-"provides timely insights to inform preparedness, anticipatory action, "
-"response, recovery and policy decisions for longer-term resilience "
-"building. The ADW is a monthly drought monitoring and early warning "
-"product providing a holistic and comprehensive analysis and overview of "
-"ongoing short-term and long-term (link to section) drought conditions and"
-" associated impacts across the African continent. By integrating seasonal"
-" forecasts information, the bulletin provides an overview/estimation of "
-"projected impacts and trends, informing proactive/anticipatory action and"
-" response and resilience building. To ensure inclusivity the ADW bulletin"
-" is generated through a collaborative and inclusive approach through co-"
-"production process that brings together continental and regional AMHEWAS "
-"situation rooms, RECS and RCCs."
-msgstr ""
+msgid "The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking and anticipating drought conditions across the continent. Produced monthly by the African Union Commission through the Africa Multi-Hazard Early Warning and Action System (AMHEWAS) programme, the bulletin provides timely insights to inform preparedness, anticipatory action, response, recovery and policy decisions for longer-term resilience building.
+The ADW is a monthly drought monitoring and early warning product providing a holistic and comprehensive analysis and overview of ongoing short-term and long-term (link to section) drought conditions and associated impacts across the African continent. By integrating seasonal forecasts information, the bulletin provides an overview/estimation of projected impacts and trends, informing proactive/anticipatory action and response and resilience building. 
+To ensure inclusivity the ADW bulletin is generated through a collaborative and inclusive approach through co-production process that brings together continental and regional AMHEWAS situation rooms, RECS and RCCs."
+msgstr "Le Bulletin de Surveillance de la Sécheresse en Afrique (ADW) est une ressource essentielle pour suivre et anticiper les conditions de sécheresse à travers le continent africain. Produit mensuellement par la Commission de l’Union africaine dans le cadre du programme du Système Africain Multirisque d’Alerte Précoce et d’Action (AMHEWAS), ce bulletin fournit des informations opportunes pour orienter la préparation, l’action anticipée, la réponse, le relèvement et les décisions politiques en faveur du renforcement de la résilience à long terme. L’ADW est un produit mensuel de suivi de la sécheresse et d’alerte précoce, offrant une analyse holistique et complète des conditions de sécheresse en cours à court et à long terme (voir section) ainsi que de leurs impacts associés à travers le continent africain. En intégrant les informations issues des prévisions saisonnières, le bulletin fournit une estimation des impacts et des tendances projetés, soutenant ainsi l’action proactive et la construction de la résilience. Afin d’assurer l’inclusivité, le bulletin ADW est élaboré selon une approche collaborative et participative, à travers un processus de co-production impliquant les cellules de crise continentales et régionales de l’AMHEWAS, les CER (Communautés Économiques Régionales) et les CCR (Centres Climatiques Régionaux)"
 
 #: ../source/index.rst:72
 msgid "Why it matters"
