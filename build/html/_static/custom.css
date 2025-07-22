@@ -54,3 +54,15 @@ h2 {
 .bd-header a:hover {
   color: #b4a269 !important; /* Hover color */
 }
+
+.language-switcher {
+  margin-top: 1em;
+  font-size: 0.9em;
+}
+
+#language-select {
+  margin-left: 0.5em;
+  padding: 0.3em;
+  font-size: 1em;
+}
+
