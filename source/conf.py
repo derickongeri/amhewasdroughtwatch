@@ -22,7 +22,7 @@ release = '0.0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-locale_dirs = ['locales/']      # Path to .po translation files
+locale_dirs = ['locale/']      # Path to .po translation files
 gettext_compact = False         # Optional: cleaner structure for .po files
 
 extensions = []
@@ -77,6 +77,3 @@ html_theme_options = {
 "secondary_sidebar_items": [],
 "collapse_navigation": True,
 }
-
-
-
