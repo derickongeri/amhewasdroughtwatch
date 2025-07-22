@@ -1,8 +1,16 @@
 <div class="language-switcher">
-    <span>
-      <a href="/build/html/index.html">EN</a> /
-      <a href="/build/html/fr/index.html">FR</a> /
-      <a href="/build/html/ar/index.html">AR</a> /
-      <a href="/build/html/pt/index.html">PT</a>
-    </span>
+    <label for="language-select"><strong>Language:</strong></label>
+    <select id="language-select" onchange="switchLanguage(this)">
+      <option value="/build/html/index.html">EN</option>
+      <option value="/build/html/fr/index.html">FR</option>
+      <option value="/build/html/ar/index.html">AR</option>
+      <option value="/build/html/pt/index.html">PT</option>
+    </select>
   </div>
+  
+  <script>
+    function switchLanguage(selectElement) {
+      const selectedUrl = selectElement.value;
+      window.location.href = selectedUrl;
+    }
+  </script>
