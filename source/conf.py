@@ -51,7 +51,6 @@ html_sidebars = {
 
 html_theme_options = {
 "icon_links_label": _("Quick Links"),
-"on_this_page": _("Section Navigation"),
 "external_links": [
     # {
     #     "url": "https://au.int/en/directorates/sustainable-environment#",
@@ -70,7 +69,7 @@ html_theme_options = {
 "navbar_center": ["navbar-nav"],
 "navbar_align": "right",
 "navbar_end": ["language-switcher", "navbar-icon-links"],
-"navbar_persistent": ["search-bar"],
+"navbar_persistent": ["search-button"],
 "logo": {
     "image_light": "_static/images/logo.svg",
     "image_dark": "_static/images/logo.svg",
@@ -78,10 +77,6 @@ html_theme_options = {
 "secondary_sidebar_items": [],
 "collapse_navigation": True,
 }
-
-def setup(app):
-   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "source/locale")
-   app.add_message_catalog(catalog, locale_dir)
 
 
 
