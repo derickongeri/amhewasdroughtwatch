@@ -1,295 +1,163 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025, AMHEWAS
-# This file is distributed under the same license as the Africa Drought
-# Bulletin package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-#
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: Africa Drought Bulletin \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 17:23+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ar\n"
-"Language-Team: ar <LL@li.org>\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
-"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
-
 #: ../source/index.rst:28
 msgid ""
-"The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking"
-" and anticipating drought conditions across the continent. Produced "
-"monthly by the African Union Commission through the Africa Multi-Hazard "
-"Early Warning and Action System (AMHEWAS) programme, the bulletin "
-"provides timely insights to inform preparedness, anticipatory action, "
-"response, recovery and policy decisions for longer-term resilience "
-"building. The ADW is a monthly drought monitoring and early warning "
-"product providing a holistic and comprehensive analysis and overview of "
-"ongoing short-term and long-term (link to section) drought conditions and"
-" associated impacts across the African continent. By integrating seasonal"
-" forecasts information, the bulletin provides an overview/estimation of "
-"projected impacts and trends, informing proactive/anticipatory action and"
-" response and resilience building. To ensure inclusivity the ADW bulletin"
-" is generated through a collaborative and inclusive approach through co-"
-"production process that brings together continental and regional AMHEWAS "
-"situation rooms, RECS and RCCs."
+"The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking..."
 msgstr ""
+"نشرة رصد الجفاف في إفريقيا (ADW) هي مصدر إفريقيا لتتبع وتوقّع حالات الجفاف في جميع أنحاء القارة. تُنشر شهريًا من قبل مفوضية الاتحاد الإفريقي من خلال برنامج النظام الإفريقي المتعدد المخاطر للإنذار المبكر والعمل (AMHEWAS)، وتوفّر النشرة رؤى في الوقت المناسب لتوجيه الاستعداد، والعمل الاستباقي، والاستجابة، والتعافي، واتخاذ قرارات السياسات لبناء القدرة على الصمود على المدى الطويل. تُعد ADW منتجًا شهريًا لرصد الجفاف والإنذار المبكر، يقدّم تحليلاً شاملاً ومتكاملاً لحالات الجفاف قصيرة وطويلة الأجل وتأثيراتها في جميع أنحاء إفريقيا. من خلال دمج توقعات الموسم، توفّر النشرة نظرة عامة على التأثيرات والاتجاهات المتوقعة، مما يدعم اتخاذ إجراءات واستجابات استباقية وبناء القدرة على الصمود. لضمان الشمولية، يتم إعداد النشرة من خلال نهج تعاوني وشامل عبر عملية إنتاج مشترك تجمع بين غرف المراقبة القارية والإقليمية التابعة لـ AMHEWAS، والمجموعات الاقتصادية الإقليمية (RECs)، والمراكز المناخية الإقليمية (RCCs)."
 
 #: ../source/index.rst:72
 msgid "Why it matters"
-msgstr ""
+msgstr "لماذا الأمر مهم"
 
 #: ../source/index.rst:74
 msgid ""
-"Africa faces more frequent, severe, and prolonged droughts. Drought "
-"monitoring and early warning are critical in mitigating and managing "
-"drought risks and drought emergencies. Africa needs to be better "
-"prepared. The Drought Bulletin helps: - Trigger anticipatory action "
-"before impacts escalate - Inform regional coordination and cross-border "
-"response - Support long-term planning and investment in resilience With "
-"timely, science-based alerts, we move from reacting to anticipating."
+"Africa faces more frequent, severe, and prolonged droughts..."
 msgstr ""
+"تواجه إفريقيا حالات جفاف أكثر تكرارًا وشدة وطولًا. إن مراقبة الجفاف والإنذار المبكر أمران حاسمان في التخفيف من المخاطر وإدارة حالات الطوارئ المتعلقة بالجفاف. تحتاج إفريقيا إلى أن تكون أكثر استعدادًا. تساعد نشرة الجفاف على: - تحفيز الإجراءات الاستباقية قبل تفاقم التأثيرات - دعم التنسيق الإقليمي والاستجابة عبر الحدود - دعم التخطيط والاستثمار طويل الأجل في الصمود. من خلال التنبيهات العلمية في الوقت المناسب، ننتقل من رد الفعل إلى التوقع."
 
 #: ../source/index.rst:83
 msgid "What is the Bulletin?"
-msgstr ""
+msgstr "ما هي النشرة؟"
 
 #: ../source/index.rst:85
 msgid ""
-"The Drought Bulletin is a monthly publication offering: - Continental "
-"drought monitoring using satellite, ground data, and regional expertise -"
-" Drought risk outlooks for the months ahead - Policy-relevant messages to"
-" inform early action and coordination - Visuals and maps to quickly "
-"interpret severity and spread Whether you’re a policymaker, humanitarian "
-"responder, or researcher, the bulletin supports early decision-making and"
-" resilience building."
+"The Drought Bulletin is a monthly publication offering..."
 msgstr ""
+"نشرة الجفاف هي إصدار شهري يقدّم: - رصدًا قاريًا للجفاف باستخدام بيانات الأقمار الصناعية، والمعلومات الميدانية، والخبرات الإقليمية - توقعات مخاطر الجفاف للأشهر المقبلة - رسائل موجهة للسياسات لدعم الإجراءات المبكرة والتنسيق - صور وخرائط لتفسير مدى الجفاف وانتشاره بسرعة. سواء كنت صاحب قرار سياسي أو مستجيبًا إنسانيًا أو باحثًا، فإن النشرة تدعم اتخاذ قرارات مبكرة وبناء القدرة على الصمود."
 
 #: ../source/index.rst:93
 msgid "*View the latest bulletin* (link)"
-msgstr ""
+msgstr "*عرض النشرة الأحدث* (رابط)"
 
 #: ../source/index.rst:98
 msgid "Definitions and Terminology"
-msgstr ""
+msgstr "التعاريف والمصطلحات"
 
 #: ../source/index.rst:100
-msgid ""
-"**Drought**: A prolonged period of abnormally low rainfall, leading to a "
-"shortage of water that can negatively impact agriculture, ecosystems, and"
-" human activities"
-msgstr ""
+msgid "**Drought**: A prolonged period of abnormally low rainfall..."
+msgstr "**الجفاف**: فترة طويلة من انخفاض هطول الأمطار بشكل غير طبيعي، تؤدي إلى نقص في المياه يمكن أن يؤثر سلبًا على الزراعة والنظم البيئية والأنشطة البشرية."
 
 #: ../source/index.rst:103
-msgid ""
-"**Combined Drought Indicator (CDI)**: A multi-variable index used to "
-"monitor and assess drought conditions by integrating information from "
-"various hydrological and biophysical variables. It is particularly "
-"valuable in identifying and tracking agricultural drought, which directly"
-" impacts vegetation and crop health. Instead of relying on a single "
-"drought indicator, ADW CDI combines three indicators namely: - "
-"Standardized Precipitation Index: (SPI-1, SPI-3) - Soil moisture anomaly:"
-" (monthly) - Vegetation productivity anomaly using Fraction of Absorbed "
-"Photosynthenticaly Active Radiation (fAPAR): (dekadal)"
+msgid "**Combined Drought Indicator (CDI)**: A multi-variable index..."
 msgstr ""
+"**مؤشر الجفاف المدمج (CDI)**: مؤشر متعدد المتغيرات يُستخدم لرصد وتقييم حالات الجفاف من خلال دمج معلومات من متغيرات هيدرولوجية وبيوفيزيائية متعددة. يُستخدم بشكل خاص لتحديد وتتبع الجفاف الزراعي الذي يؤثر مباشرةً على صحة النباتات والمحاصيل. بدلاً من الاعتماد على مؤشر واحد، يجمع مؤشر CDI في ADW بين ثلاثة مؤشرات، وهي: - مؤشر هطول الأمطار القياسي: (SPI-1، SPI-3) - شذوذ رطوبة التربة: (شهريًا) - شذوذ إنتاجية النباتات باستخدام نسبة الإشعاع النشط الممتص ضوئيًا (fAPAR): (كل 10 أيام)"
 
 #: ../source/index.rst:108
-msgid ""
-"**Short-term drought**: is a period of unusually dry weather that "
-"typically lasts from a few weeks to a few months, caused by a significant"
-" rainfall deficit that primarily affects topsoil moisture and surface "
-"water sources, often affecting agriculture and ecosystems and increasing "
-"wildfire risk. The Bulletin monitors short-term drought using the "
-"Combined Drought Indicator (CDI) that integrates rainfall deficit (SPI-1,"
-" SPI-3), soil moisture anomaly, and reduced vegetation productivity "
-"(fAPAR)"
+msgid "**Short-term drought**: is a period of unusually dry weather..."
 msgstr ""
+"**الجفاف قصير الأجل**: هو فترة من الطقس الجاف غير المعتاد تستمر عادة من بضعة أسابيع إلى بضعة أشهر، ناتجة عن نقص كبير في الأمطار يؤثر بشكل رئيسي على رطوبة التربة السطحية ومصادر المياه السطحية، وغالبًا ما يؤثر على الزراعة والنظم البيئية ويزيد من خطر الحرائق. تراقب النشرة هذا النوع من الجفاف باستخدام مؤشر الجفاف المدمج (CDI) الذي يدمج بين نقص الأمطار (SPI-1، SPI-3)، وشذوذ رطوبة التربة، وانخفاض إنتاجية النباتات (fAPAR)."
 
 #: ../source/index.rst:110
-msgid ""
-"**Long-term drought**: Droughts that persist for many months or years and"
-" impact hydrological systems, groundwater, ecosystems and socio-economic "
-"systems. Long-term droughts are typically associated with cumulative "
-"rainfall deficits over extended periods. The Bulletin monitors long-term "
-"drought using the 12-month Standardized Precipitation Index (SPI-12), "
-"which captures rainfall deficit over the past 12 months."
+msgid "**Long-term drought**: Droughts that persist for many months..."
 msgstr ""
+"**الجفاف طويل الأجل**: حالات الجفاف التي تستمر لعدة أشهر أو سنوات وتؤثر على الأنظمة الهيدرولوجية، والمياه الجوفية، والنظم البيئية، والأنظمة الاجتماعية والاقتصادية. يرتبط هذا النوع عادة بتراكم نقص الأمطار لفترات طويلة. تراقب النشرة الجفاف طويل الأجل باستخدام مؤشر هطول الأمطار القياسي لفترة 12 شهرًا (SPI-12)."
 
 #: ../source/index.rst:112
 msgid "**Types of drought**:"
-msgstr ""
+msgstr "**أنواع الجفاف:**"
 
 #: ../source/index.rst:114
-msgid ""
-"**Meteorological**: a significant reduction in rainfall compared to the "
-"long-term average for a specific region and time period. It is the "
-"earliest signal of drought, typically measured using indicators like the "
-"Standardized Precipitation Index (SPI-1)"
-msgstr ""
+msgid "**Meteorological**: a significant reduction in rainfall..."
+msgstr "**الجفاف المناخي**: انخفاض كبير في هطول الأمطار مقارنةً بالمعدل الطبيعي لفترة ومكان محددين. وهو أول إشارة لحدوث الجفاف، ويُقاس عادةً بمؤشرات مثل مؤشر SPI-1."
 
 #: ../source/index.rst:115
-msgid ""
-"**Agricultural**: occurs when reduced rainfall and soil moisture limit "
-"crop growth, pasture quality, or agricultural productivity. It reflects "
-"impact on farming and food systems, and may lag behind meteorological "
-"drought"
-msgstr ""
+msgid "**Agricultural**: occurs when reduced rainfall and soil moisture..."
+msgstr "**الجفاف الزراعي**: يحدث عند انخفاض الأمطار ورطوبة التربة بما يكفي لتقليل نمو المحاصيل وجودة المراعي أو الإنتاجية الزراعية. يعكس هذا النوع تأثير الجفاف على الزراعة والغذاء، وقد يتأخر ظهوره بعد الجفاف المناخي."
 
 #: ../source/index.rst:116
-msgid ""
-"**Hydrological**: results from prolonged precipitation deficits that lead"
-" to reduced streamflow, groundwater levels, reservoir storage, and water "
-"availability. It affects water supply systems, energy production, and "
-"ecosystem health and typically develops slowly but lasts longer."
-msgstr ""
+msgid "**Hydrological**: results from prolonged precipitation deficits..."
+msgstr "**الجفاف الهيدرولوجي**: يحدث نتيجة نقص طويل الأمد في الأمطار، مما يؤدي إلى انخفاض تدفق الأنهار، ومستويات المياه الجوفية، وتخزين السدود، وتوافر المياه. يؤثر على أنظمة إمداد المياه وإنتاج الطاقة وصحة النظم البيئية، ويتطور ببطء لكنه يدوم لفترة أطول."
 
 #: ../source/index.rst:117
-msgid ""
-"**Socio-economic**: arises when water shortages begin to affect people’s "
-"daily lives, income and services. It occurs when drought conditions "
-"reduce availability of water for households, agriculture, energy, health "
-"care, or markets – leading to price hikes, job losses, increased hardship"
-" in communities and strain on public services. In the most affected "
-"areas, it can result in forced migration, displacement or conflict over "
-"scare resources."
-msgstr ""
+msgid "**Socio-economic**: arises when water shortages begin to affect..."
+msgstr "**الجفاف الاجتماعي-الاقتصادي**: يحدث عندما تبدأ ندرة المياه بالتأثير على حياة الناس اليومية، ودخلهم، والخدمات المقدمة لهم. ويؤدي إلى تقليل توافر المياه للأسر والزراعة والطاقة والرعاية الصحية والأسواق، مما يؤدي إلى ارتفاع الأسعار وفقدان الوظائف وزيادة المعاناة، وقد يتسبب في النزوح أو الصراع على الموارد النادرة."
 
 #: ../source/index.rst:118
-msgid ""
-"**Ecological drought**: occurs when prolonged water shortages disrupt "
-"ecosystems – reducing the health, functioning or services provided by "
-"forests, wetlands, rangelands or aquatic systems. It can lead to "
-"vegetation dieback, wildlife stress or migration, biodiversity loss, and "
-"increased vulnerability to wildfires and invasive species. Unlike other "
-"drought types focused on people or crops, ecological drought highlights "
-"the impacts on nature itself, and how drought threatens the long-term "
-"balance of ecosystems."
+msgid "**Ecological drought**: occurs when prolonged water shortages..."
 msgstr ""
+"**الجفاف البيئي**: يحدث عندما تؤدي ندرة المياه المستمرة إلى إضعاف النظم البيئية – مما يقلل من صحة الغابات، والأراضي الرطبة، والمراعي، أو الأنظمة المائية. وقد يؤدي إلى موت النباتات، وضغط أو هجرة الحياة البرية، وفقدان التنوع البيولوجي، وزيادة قابلية التعرض للحرائق والأنواع الغازية. يركّز هذا النوع من الجفاف على تأثيراته على الطبيعة نفسها، وعلى التوازن طويل الأجل للنظم البيئية."
 
 #: ../source/index.rst:121
-msgid ""
-"**Standardized Precipitation Index (SPI)**: The Standardized "
-"Precipitation Index, or SPI, is a drought index that captures how "
-"observed precipitation deviates from the climatological average over a "
-"given time period."
-msgstr ""
+msgid "**Standardized Precipitation Index (SPI)**: The Standardized..."
+msgstr "**مؤشر هطول الأمطار القياسي (SPI)**: مؤشر يُستخدم لقياس مدى انحراف هطول الأمطار عن المتوسط المناخي لفترة زمنية محددة."
 
 #: ../source/index.rst:125
-msgid ""
-"**Soil Moisture Anomaly**: Assesses the deviation of soil moisture from "
-"its long-term average, directly indicating water availability for plants "
-"and agricultural drought"
-msgstr ""
+msgid "**Soil Moisture Anomaly**: Assesses the deviation of soil moisture..."
+msgstr "**شذوذ رطوبة التربة**: يقيس الانحراف في رطوبة التربة عن المعدل الطبيعي على المدى الطويل، ويعكس مباشرةً توافر المياه للنباتات."
 
 #: ../source/index.rst:127
-msgid ""
-"**Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) "
-"Anomaly**: Derived from satellite observations, this measures how much "
-"solar radiation vegetation is absorbing for photosynthesis. Anomalies in "
-"FAPAR can indicate vegetation stress due to water scarcity"
-msgstr ""
+msgid "**Fraction of Absorbed Photosynthetically Active Radiation (FAPAR)..."
+msgstr "**شذوذ نسبة الإشعاع النشط الممتص ضوئيًا (fAPAR)**: يُستخلص من بيانات الأقمار الصناعية ويقيس كمية الإشعاع الشمسي التي تمتصها النباتات للقيام بعملية التمثيل الضوئي. الانحرافات في هذا المؤشر تشير إلى إجهاد النباتات نتيجة نقص المياه."
 
 #: ../source/index.rst:131
 msgid "Methodology"
-msgstr ""
+msgstr "المنهجية"
 
 #: ../source/index.rst:133
 msgid ""
-"The ADW maps give information about drought hazards that could pose a "
-"risk to human communities. Current drought conditions are described using"
-" two metrics, the Combined Drought Indicator (CDI) and the 12-month "
-"Standardized Precipitation Index (SPI-12) which are intended to "
-"characterise the drought hazard from fast (short-term) and slow (long-"
-"term) processes respectively. CDI combines information on precipitation "
-"anomaly, soil moisture anomaly and vegetation anomaly, thus highlighting "
-"conditions associated with meteorological and agricultural drought. The "
-"SPI-12 is associated with hydrological drought. The bulletin integrates "
-"multiple data sources and expert input: - Satellite-derived and model-"
-"based drought indices (e.g., SPI, fAPAR, soil moisture) - Seasonal "
-"forecasts from RCCs and Global Centers - Impact assessments - Co-"
-"production with technical experts and end-users Data is analyzed "
-"regionally and validated through collaboration with RECs, RCCs, and "
-"national agencies."
+"The ADW maps give information about drought hazards..."
 msgstr ""
+"توفّر خرائط ADW معلومات عن أخطار الجفاف التي قد تهدد المجتمعات البشرية. يتم وصف حالة الجفاف الحالية باستخدام مؤشرين هما: مؤشر الجفاف المدمج (CDI) ومؤشر هطول الأمطار القياسي لمدة 12 شهرًا (SPI-12)، لتمثيل عمليات الجفاف السريعة (قصيرة الأجل) والبطيئة (طويلة الأجل) على التوالي. يجمع CDI معلومات عن شذوذ هطول الأمطار، رطوبة التربة، والنباتات، لتسليط الضوء على حالات الجفاف المناخي والزراعي، بينما يرتبط SPI-12 بالجفاف الهيدرولوجي. يتم دمج مصادر بيانات متعددة ومدخلات الخبراء: - مؤشرات الجفاف من الأقمار الصناعية والنماذج (SPI، fAPAR، رطوبة التربة) - التوقعات الموسمية من RCCs والمراكز العالمية - تقييمات الأثر - الإنتاج المشترك مع الخبراء الفنيين والمستخدمين النهائيين. يتم تحليل البيانات على المستوى الإقليمي والتحقق منها بالتعاون مع RECs، RCCs، والوكالات الوطنية."
 
 #: ../source/index.rst:143
 msgid "How to Use the Bulletin (Interpreting the Legend)"
-msgstr ""
+msgstr "كيفية استخدام النشرة (تفسير الرموز)"
 
 #: ../source/index.rst:145
 msgid "Key sections include:"
-msgstr ""
+msgstr "تشمل الأقسام الرئيسية ما يلي:"
 
 #: ../source/index.rst:147
 msgid "**Drought Situation Overview**: Current status and recent developments"
-msgstr ""
+msgstr "**نظرة عامة على حالة الجفاف**: الحالة الحالية والتطورات الأخيرة"
 
 #: ../source/index.rst:148
 msgid "**Forecast and Early Warning**: Probabilistic forecasts and risk alerts"
-msgstr ""
+msgstr "**التوقعات والإنذار المبكر**: توقعات احتمالية وتنبيهات المخاطر"
 
 #: ../source/index.rst:149
-msgid ""
-"**Impacts and Advisories**: Insights for agriculture, water, health, and "
-"livelihoods"
-msgstr ""
+msgid "**Impacts and Advisories**: Insights for agriculture, water, health..."
+msgstr "**التأثيرات والإرشادات**: معلومات مفيدة للزراعة، والمياه، والصحة، وسبل العيش"
 
 #: ../source/index.rst:150
 msgid "**Recommendations**: Suggested early actions"
-msgstr ""
+msgstr "**التوصيات**: الإجراءات المبكرة المقترحة"
 
 #: ../source/index.rst:161
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "الأسئلة الشائعة"
 
 #: ../source/index.rst:163
 msgid "`Who produces the drought bulletin? <Introduction/faq.html#who-produces>`_"
-msgstr ""
+msgstr "`من يُعد نشرة الجفاف؟ <Introduction/faq.html#who-produces>`_"
 
 #: ../source/index.rst:164
 msgid "`How often is the bulletin produced? <Introduction/faq.html#how-often>`_"
-msgstr ""
+msgstr "`كم مرة تُنشر النشرة؟ <Introduction/faq.html#how-often>`_"
 
 #: ../source/index.rst:165
-msgid ""
-"`What is the definition of drought? <Introduction/faq.html#definition-of-"
-"drought>`_"
-msgstr ""
+msgid "`What is the definition of drought? <Introduction/faq.html#definition-of-drought>`_"
+msgstr "`ما هو تعريف الجفاف؟ <Introduction/faq.html#definition-of-drought>`_"
 
 #: ../source/index.rst:166
-msgid ""
-"`How should I interpret the AMHEWAS drought levels, and what do the "
-"different map colors mean? <Introduction/faq.html#amhewas-drought-"
-"levels>`_"
-msgstr ""
+msgid "`How should I interpret the AMHEWAS drought levels...`_"
+msgstr "`كيف يمكنني تفسير مستويات الجفاف في AMHEWAS وما معنى ألوان الخرائط المختلفة؟ <Introduction/faq.html#amhewas-drought-levels>`_"
 
 #: ../source/index.rst:167
-msgid ""
-"`Why is long-term drought or hydrological drought important when looking "
-"at current drought? <Introduction/faq.html#long-term-drought>`_"
-msgstr ""
+msgid "`Why is long-term drought... <Introduction/faq.html#long-term-drought>`_"
+msgstr "`لماذا يعتبر الجفاف طويل الأجل مهمًا عند النظر إلى الجفاف الحالي؟ <Introduction/faq.html#long-term-drought>`_"
 
 #: ../source/index.rst:168
-msgid ""
-"`Can desert and tropical forest areas experience drought? "
-"<Introduction/faq.html#drought-in-forests-deserts>`_"
-msgstr ""
+msgid "`Can desert and tropical forest areas experience drought?...`_"
+msgstr "`هل يمكن أن تحدث حالات جفاف في الصحارى والغابات الاستوائية؟ <Introduction/faq.html#drought-in-forests-deserts>`_"
 
 #: ../source/index.rst:172
 msgid "Donors, Partners, and Contributors"
-msgstr ""
+msgstr "الجهات المانحة والشركاء والمساهمون"
 
 #: ../source/index.rst:174
 msgid ""
-"This bulletin is made possible through collaboration with: Regional "
-"Climate Centres **(RCCs)**, Regional Economic Communities **(RECs)**, "
-"National Meteorological & Hydrological Services, and Financial and "
-"technical supporters"
+"This bulletin is made possible through collaboration with:..."
 msgstr ""
+"تم إعداد هذه النشرة بفضل التعاون مع: المراكز المناخية الإقليمية **(RCCs)**، والمجموعات الاقتصادية الإقليمية **(RECs)**، وخدمات الأرصاد الجوية والهيدرولوجية الوطنية، والداعمين الماليين والفنيين."
+
 
