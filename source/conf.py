@@ -77,3 +77,8 @@ html_theme_options = {
 "secondary_sidebar_items": [],
 "collapse_navigation": True,
 }
+
+def setup(app):
+   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "locale")
+
+   app.add_message_catalog(catalog, locale_dir)

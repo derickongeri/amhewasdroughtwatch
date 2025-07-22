@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, AMHEWAS
+# This file is distributed under the same license as the Africa Drought Bulletin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Africa Drought Bulletin \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-22 22:26+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../methods.rst:2
+#: ../methods.rst:39
+msgid "Methodology"
+msgstr ""
+
+#: ../methods.rst:5
+msgid "Definitions and Terminology"
+msgstr ""
+
+#: ../methods.rst:7
+msgid "**Drought**: A prolonged period of abnormally low rainfall, leading to a shortage of water that can negatively impact agriculture, ecosystems, and human activities"
+msgstr ""
+
+#: ../methods.rst:10
+msgid "**Combined Drought Indicator (CDI)**: An integrated indicator combining precipitation, soil moisture and vegetation conditions to provide a holistic drought severity classification"
+msgstr ""
+
+#: ../methods.rst:14
+msgid "**Short-term drought**:"
+msgstr ""
+
+#: ../methods.rst:16
+msgid "**Long-term drought**: Droughts that persist for many months or years and impact hydrological systems, groundwater, ecosystems and socio-economic systems. Long- term droughts are typically associated with cumulative rainfall deficits over extended periods. The Bulletin monitors long-term drought using the 12-month Standardized Precipitation Index (SPI-12), which captures rainfall deficit over the past 12 months."
+msgstr ""
+
+#: ../methods.rst:22
+msgid "**Types of drought**:"
+msgstr ""
+
+#: ../methods.rst:24
+msgid "Meteorological"
+msgstr ""
+
+#: ../methods.rst:25
+msgid "Agricultural"
+msgstr ""
+
+#: ../methods.rst:26
+msgid "Hydrological"
+msgstr ""
+
+#: ../methods.rst:27
+msgid "Ecological"
+msgstr ""
+
+#: ../methods.rst:28
+msgid "Socio-economic"
+msgstr ""
+
+#: ../methods.rst:30
+msgid "**Ecosystem drought**: ?"
+msgstr ""
+
+#: ../methods.rst:32
+msgid "**Standardized Precipitation Index (SPI)**: The Standardized Precipitation Index, or SPI, is a drought index that captures how observed precipitation deviates from the climatological average over a given time period."
+msgstr ""
+
+#: ../methods.rst:41
+msgid "The ADW maps give information about drought hazards that could pose a risk to human communities. Current drought conditions are described using two metrics, the Combined Drought Indicator (CDI) and the 12-month Standardized Precipitation Index (SPI-12), which are intended to characterise the drought hazard from fast (short-term) and slow (long-term) processes respectively."
+msgstr ""
+
+#: ../methods.rst:47
+msgid "**CDI** combines information on precipitation anomaly, soil moisture anomaly and vegetation anomaly, thus highlighting conditions associated with meteorological and agricultural drought."
+msgstr ""
+
+#: ../methods.rst:49
+msgid "**SPI-12** is associated with hydrological drought."
+msgstr ""
+
+#: ../methods.rst:51
+msgid "The bulletin integrates multiple data sources and expert input:"
+msgstr ""
+
+#: ../methods.rst:53
+msgid "Satellite-derived and model-based drought indices (e.g., SPI, fAPAR, soil moisture)"
+msgstr ""
+
+#: ../methods.rst:54
+msgid "Seasonal forecasts from RCCs and Global Centers"
+msgstr ""
+
+#: ../methods.rst:55
+msgid "Impact assessments"
+msgstr ""
+
+#: ../methods.rst:56
+msgid "Co-production with technical experts and end-users"
+msgstr ""
+
+#: ../methods.rst:58
+msgid "Data is analyzed regionally and validated through collaboration with RECs, RCCs, and national agencies."
+msgstr ""

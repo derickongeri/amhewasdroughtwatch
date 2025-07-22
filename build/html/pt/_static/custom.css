@@ -1,0 +1,68 @@
+/* Justify all paragraph text */
+p {
+  text-align: justify;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+td,
+th {
+  text-align: left;
+}
+
+html {
+  --pst-color-heading: #b4a269;
+  --pst-font-size-base: 16px;
+}
+
+/* custom.css */
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5em;
+}
+
+/* You can also target headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto Slab", serif;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+.bd-header {
+  background-color: #b4a269 !important; /* Navbar background */
+  color: white;
+  /* height: 10vh; */
+}
+
+.bd-header a {
+  color: white !important; /* Navbar link text */
+}
+
+.bd-header a:hover {
+  color: #b4a269 !important; /* Hover color */
+}
+
+.language-switcher {
+  margin-top: 1em;
+  font-size: 0.9em;
+}
+
+#language-select {
+  margin-left: 0.5em;
+  padding: 0.3em;
+  font-size: 1em;
+}
+
