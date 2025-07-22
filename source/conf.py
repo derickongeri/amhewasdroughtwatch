@@ -3,6 +3,21 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+# -- Path setup --------------------------------------------------------------
+import os
+import sys
+
+from pathlib import Path
+from typing import Any, Dict
+
+from sphinx.application import Sphinx
+from sphinx.locale import _
+
+import pydata_sphinx_theme
+
+
+sys.path.append(str(Path(".").resolve()))
+
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -13,9 +28,6 @@ release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
-import os
-language = os.getenv("SPHINX_LANGUAGE", "en")
 
 locale_dirs = ['locales/']      # Path to .po translation files
 gettext_compact = False         # Optional: cleaner structure for .po files
