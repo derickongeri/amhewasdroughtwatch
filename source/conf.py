@@ -4,19 +4,16 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
-import os
-import sys
+import os.path
+from sphinx.locale import get_translation
 
-from pathlib import Path
-from typing import Any, Dict
+catalog = "messages"
+_ = get_translation(catalog)
 
-from sphinx.application import Sphinx
-from sphinx.locale import _
+def setup(app):
+   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "locale")
 
-import pydata_sphinx_theme
-
-
-sys.path.append(str(Path(".").resolve()))
+   app.add_message_catalog(catalog, locale_dir)
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
@@ -94,4 +91,6 @@ html_theme_options = {
 "secondary_sidebar_items": [],
 "collapse_navigation": True,
 }
+
+
 
