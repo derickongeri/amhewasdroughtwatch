@@ -4,16 +4,12 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 # -- Path setup --------------------------------------------------------------
-import os.path
-from sphinx.locale import get_translation
+import os
+language = os.getenv("SPHINX_LANGUAGE", "en")
 
-catalog = "messages"
-_ = get_translation(catalog)
+locale_dirs = ['locales/']      # Path to .po translation files
+gettext_compact = False         # Optional: cleaner structure for .po files
 
-def setup(app):
-   locale_dir = os.path.join(os.path.abspath(os.path.dirname(__file__)), "locale")
-
-   app.add_message_catalog(catalog, locale_dir)
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
