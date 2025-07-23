@@ -21,3 +21,76 @@ msgstr ""
 msgid "Quick Links"
 msgstr ""
 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+# Theme UI elements
+msgid "Search"
+msgstr "بحث"
+
+msgid "Search this book..."
+msgstr "ابحث في هذا الكتاب..."
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Table of contents"
+msgstr "جدول المحتويات"
+
+msgid "On this page"
+msgstr "في هذه الصفحة"
+
+msgid "Open"
+msgstr "فتح"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Download this page"
+msgstr "تنزيل هذه الصفحة"
+
+msgid "Edit this page"
+msgstr "تعديل هذه الصفحة"
+
+msgid "Launch"
+msgstr "تشغيل"
+
+msgid "Last updated"
+msgstr "آخر تحديث"
+
+msgid "By"
+msgstr "بواسطة"
+
+msgid "Toggle navigation"
+msgstr "تبديل التنقل"
+
+msgid "Collapse all"
+msgstr "طي الكل"
+
+msgid "Expand all"
+msgstr "توسيع الكل"
+
+msgid "Theme"
+msgstr "المظهر"
+
+msgid "Light"
+msgstr "فاتح"
+
+msgid "Dark"
+msgstr "داكن"
+
+msgid "Auto"
+msgstr "تلقائي"
+
+msgid "Search the docs.."
+msgstr "ابحث في المستندات.."
+
+msgid "On this page"
+msgstr "في هذه الصفحة"
+
+

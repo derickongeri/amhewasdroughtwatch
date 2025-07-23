@@ -23,11 +23,11 @@ msgstr ""
 
 #: ../Introduction/faq.rst:2
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "الأسئلة المتكررة"
 
 #: ../Introduction/faq.rst:7
 msgid "Who produces the drought bulletin?"
-msgstr ""
+msgstr "من ينتج نشرة الجفاف؟"
 
 #: ../Introduction/faq.rst:9
 msgid ""
@@ -39,10 +39,15 @@ msgid ""
 "ground realities, scientific accuracy, and the needs of diverse "
 "stakeholders."
 msgstr ""
+"يتم إنتاج نشرة الجفاف من قبل مفوضية الاتحاد الأفريقي (AUC) من خلال "
+"برنامج AMHEWAS، باستخدام عملية إنتاج مشتركة وشاملة. تجمع هذه العملية "
+"الخبرات من غرف حالة AMHEWAS القارية والإقليمية، والمجتمعات الاقتصادية "
+"الإقليمية (RECs)، ومراكز المناخ الإقليمية (RCCs) لضمان أن تعكس النشرة "
+"الواقع على الأرض، والدقة العلمية، واحتياجات مختلف الأطراف المعنية."
 
 #: ../Introduction/faq.rst:14
 msgid "How often is the bulletin produced?"
-msgstr ""
+msgstr "كم مرة تُصدر النشرة؟"
 
 #: ../Introduction/faq.rst:16
 msgid ""
@@ -51,10 +56,13 @@ msgid ""
 "publication also includes a forward-looking outlook based on seasonal "
 "forecasts, highlighting potential drought risks in the months ahead."
 msgstr ""
+"يتم إصدار نشرة الجفاف وتوزيعها شهريًا، مقدمة تحليلًا محدثًا لحالة الجفاف "
+"الحالية في جميع أنحاء أفريقيا. تشمل كل نشرة أيضًا توقعات مستقبلية بناءً "
+"على التنبؤات الموسمية، تبرز المخاطر المحتملة للجفاف في الأشهر القادمة."
 
 #: ../Introduction/faq.rst:21
 msgid "What is the definition of drought?"
-msgstr ""
+msgstr "ما هو تعريف الجفاف؟"
 
 #: ../Introduction/faq.rst:23
 msgid ""
@@ -63,12 +71,16 @@ msgid ""
 "activities. Drought is about deviation from the norm, not just how dry or"
 " wet a place usually is."
 msgstr ""
+"فترة طويلة من انخفاض هطول الأمطار بشكل غير طبيعي، مما يؤدي إلى نقص في "
+"المياه قد يؤثر سلبًا على الزراعة والأنظمة البيئية والأنشطة البشرية. "
+"الجفاف هو انحراف عن الوضع الطبيعي، وليس مجرد مدى جفاف أو رطوبة المكان عادةً."
 
 #: ../Introduction/faq.rst:28
 msgid ""
 "How should I interpret the AMHEWAS drought levels, and what do the "
 "different map colors mean?"
 msgstr ""
+"كيف يمكنني تفسير مستويات الجفاف في AMHEWAS، وماذا تعني ألوان الخريطة المختلفة؟"
 
 #: ../Introduction/faq.rst:30
 msgid ""
@@ -78,6 +90,10 @@ msgid ""
 "moves from early monitoring to full-scale emergency response, guiding "
 "both technical experts and decision-makers:"
 msgstr ""
+"توفر مستويات الجفاف في AMHEWAS طريقة موحدة لتقييم شدة حالة الجفاف، "
+"وتأثيراتها المحتملة، ومستوى الحوكمة المسؤول عن الاستجابة والتنسيق. "
+"يمتد المقياس من المراقبة المبكرة إلى الاستجابة الطارئة الكاملة، موجهًا "
+"كل من الخبراء الفنيين وصانعي القرار:"
 
 #: ../Introduction/faq.rst:32
 msgid ""
@@ -85,6 +101,8 @@ msgid ""
 "limited impacts. Close monitoring is recommended. Monitoring by technical"
 " agencies at sub-national level."
 msgstr ""
+"**المستوى 1 (أخضر فاتح)** - علامات مبكرة لهطول أمطار أقل من المعدل؛ تأثيرات محدودة. "
+"يوصى بالمراقبة الدقيقة من قبل الوكالات الفنية على المستوى دون الوطني."
 
 #: ../Introduction/faq.rst:33
 msgid ""
@@ -93,6 +111,8 @@ msgid ""
 "local authorities begin preparedness measures and inter-agency cross-"
 "sector coordination."
 msgstr ""
+"**المستوى 2 (أصفر)** - تزايد عجز الأمطار؛ علامات مبكرة لتوتر على المحاصيل، المراعي، أو مصادر المياه. "
+"تبدأ الوزارات القطاعية والسلطات المحلية في اتخاذ تدابير الاستعداد والتنسيق بين الوكالات."
 
 #: ../Introduction/faq.rst:34
 msgid ""
@@ -102,6 +122,9 @@ msgid ""
 "mobilization and intensified response. Regional-level coordination may be"
 " required."
 msgstr ""
+"**المستوى 3 (برتقالي)** - تأكيد تأثيرات الجفاف الشديدة؛ تأثر سبل العيش، الأمن الغذائي، وإمدادات المياه. "
+"يتطلب تنسيقًا على المستوى الوطني، تفعيل خطط الطوارئ، تعبئة الموارد المحتملة، وتعزيز الاستجابة. "
+"قد يتطلب التنسيق على المستوى الإقليمي."
 
 #: ../Introduction/faq.rst:35
 msgid ""
@@ -110,6 +133,9 @@ msgid ""
 "through RECs, AMHEWAS Situation Rooms, and the African Union. "
 "International support may be mobilized."
 msgstr ""
+"**المستوى 4 (أحمر)** - جفاف شديد ومنتشر مع تأثيرات متعددة القطاعات وإنسانية. "
+"يحفز التنسيق الإقليمي والقاري عبر المجتمعات الاقتصادية الإقليمية، غرف حالة AMHEWAS، والاتحاد الأفريقي. "
+"قد يتم تعبئة الدعم الدولي."
 
 #: ../Introduction/faq.rst:37
 msgid ""
@@ -117,12 +143,14 @@ msgid ""
 "expert input, ensuring that appropriate action is taken at the right "
 "level and time."
 msgstr ""
+"تعتمد هذه المستويات على مؤشرات علمية، تقارير التأثير، ومدخلات الخبراء، لضمان اتخاذ الإجراءات المناسبة في الوقت والمكان المناسبين."
 
 #: ../Introduction/faq.rst:43
 msgid ""
 "Why is long-term drought or hydrological drought important when looking "
 "at current drought?"
 msgstr ""
+"لماذا يعتبر الجفاف طويل الأمد أو الجفاف الهيدرولوجي مهمًا عند النظر إلى الجفاف الحالي؟"
 
 #: ../Introduction/faq.rst:45
 msgid ""
@@ -133,12 +161,17 @@ msgid ""
 "ecosystems. These sustained shortages strain drinking water supplies, "
 "irrigation systems, energy generation, public health, and food security."
 msgstr ""
+"الجفاف طويل الأمد أو الهيدرولوجي ضروري لفهم الصورة الكاملة لمخاطر الجفاف. "
+"بينما يؤثر الجفاف قصير الأمد على رطوبة التربة والمحاصيل، يعكس الجفاف طويل الأمد "
+"عجز المياه التراكمي على مدى أشهر أو سنوات، مؤثرًا على الأنهار والمياه الجوفية والخزانات والأنظمة البيئية. "
+"تتسبب هذه النقص المستمر في إجهاد إمدادات مياه الشرب وأنظمة الري وتوليد الطاقة والصحة العامة والأمن الغذائي."
 
 #: ../Introduction/faq.rst:47
 msgid ""
 "Even if rains return briefly, long-term drought conditions can persist, "
 "delaying recovery and deepening vulnerabilities."
 msgstr ""
+"حتى لو عادت الأمطار لفترة قصيرة، يمكن أن تستمر حالات الجفاف طويل الأمد، مما يؤخر التعافي ويزيد من نقاط الضعف."
 
 #: ../Introduction/faq.rst:49
 msgid ""
@@ -149,22 +182,27 @@ msgid ""
 "temporary dry spells and prolonged water crises that require sustained, "
 "system-wide responses."
 msgstr ""
+"هذا مهم بشكل خاص لتوجيه الإجراءات الاستراتيجية. يمكن أن تشير حالات الجفاف طويل الأمد إلى الحاجة إلى "
+"تقييد استهلاك المياه، والاستثمار في البنية التحتية، ودعم سبل العيش، والتخطيط طويل الأمد. "
+"تساعد الحكومات والجهات الإنسانية على التمييز بين فترات الجفاف المؤقتة وأزمات المياه المطولة التي تتطلب استجابات مستمرة على مستوى النظام."
 
 #: ../Introduction/faq.rst:51
 msgid ""
 "**In short:** long-term drought monitoring supports informed decisions "
 "that build resilience, not just emergency response."
 msgstr ""
+"**باختصار:** دعم مراقبة الجفاف طويل الأمد اتخاذ قرارات مستنيرة تبني القدرة على الصمود، وليس فقط الاستجابة الطارئة."
 
 #: ../Introduction/faq.rst:57
 msgid "Can desert and tropical forest areas experience drought?"
-msgstr ""
+msgstr "هل يمكن للمناطق الصحراوية والغابات الاستوائية أن تواجه جفافًا؟"
 
 #: ../Introduction/faq.rst:59
 msgid ""
 "Yes. Drought can affect both deserts and tropical forests, even though "
 "they represent opposite ends of the climate spectrum."
 msgstr ""
+"نعم. يمكن أن يؤثر الجفاف على كل من الصحارى والغابات الاستوائية، رغم أنهما يمثلان طرفي طيف المناخ المختلف."
 
 #: ../Introduction/faq.rst:61
 msgid ""
@@ -172,6 +210,7 @@ msgid ""
 " the already-low average—disrupting fragile ecosystems, water access, and"
 " pastoralist livelihoods."
 msgstr ""
+"في المناطق الصحراوية، يحدث الجفاف عندما ينخفض هطول الأمطار بشكل كبير عن المتوسط المنخفض أصلاً، مما يعطل الأنظمة البيئية الحساسة، وإمكانية الوصول إلى المياه، وسبل عيش الرعاة."
 
 #: ../Introduction/faq.rst:63
 msgid ""
@@ -182,10 +221,12 @@ msgid ""
 "increase wildfire risk, reduce river flows, and impact agriculture and "
 "hydropower."
 msgstr ""
+"في مناطق الغابات الاستوائية، قد يبدو الجفاف غير محتمل لأن هذه المناطق تتلقى عادةً أمطارًا وفيرة. ومع ذلك، يمكن أن يحدث الجفاف "
+"عندما يكون هناك انخفاض حاد ومطول في كمية الأمطار المتوقعة — حتى لو هطلت بعض الأمطار. هذا يمكن أن يضغط على الأنظمة البيئية للغابات، "
+"يزيد من خطر حرائق الغابات، يقلل من تدفقات الأنهار، ويؤثر على الزراعة والطاقة الكهرومائية."
 
 #: ../Introduction/faq.rst:65
-msgid ""
-"Drought is about deviation from the norm, not just how dry or wet a place"
-" usually is."
-msgstr ""
+msgid "Drought is about deviation from the norm, not just how dry or wet a place usually is."
+msgstr "الجفاف يتعلق بالانحراف عن المألوف، وليس فقط مدى جفاف أو رطوبة المكان عادةً."
+
 

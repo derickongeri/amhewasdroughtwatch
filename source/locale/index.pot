@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Africa Drought Bulletin \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 22:26+0300\n"
+"POT-Creation-Date: 2025-07-22 23:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,146 +20,166 @@ msgstr ""
 msgid "The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking and anticipating drought conditions across the continent. Produced monthly by the African Union Commission through the Africa Multi-Hazard Early Warning and Action System (AMHEWAS) programme, the bulletin provides timely insights to inform preparedness, anticipatory action, response, recovery and policy decisions for longer-term resilience building. The ADW is a monthly drought monitoring and early warning product providing a holistic and comprehensive analysis and overview of ongoing short-term and long-term (link to section) drought conditions and associated impacts across the African continent. By integrating seasonal forecasts information, the bulletin provides an overview/estimation of projected impacts and trends, informing proactive/anticipatory action and response and resilience building. To ensure inclusivity the ADW bulletin is generated through a collaborative and inclusive approach through co-production process that brings together continental and regional AMHEWAS situation rooms, RECS and RCCs."
 msgstr ""
 
-#: ../index.rst:70
+#: ../index.rst:32
+msgid "**Subscribe to the bulletin**"
+msgstr ""
+
+#: ../index.rst:34
+msgid "Join our growing network of drought risk, early warning, anticipatory action, and DRR professionals, policymakers, and humanitarian actors. Subscribers receive:"
+msgstr ""
+
+#: ../index.rst:36
+msgid "The latest bulletin in their inbox"
+msgstr ""
+
+#: ../index.rst:37
+msgid "Updates on drought outlooks and special advisories"
+msgstr ""
+
+#: ../index.rst:38
+msgid "Periodic policy briefs"
+msgstr ""
+
+#: ../index.rst:69
 msgid "Why it matters"
 msgstr ""
 
-#: ../index.rst:72
+#: ../index.rst:71
 msgid "Africa faces more frequent, severe, and prolonged droughts. Drought monitoring and early warning are critical in mitigating and managing drought risks and drought emergencies. Africa needs to be better prepared. The Drought Bulletin helps: - Trigger anticipatory action before impacts escalate - Inform regional coordination and cross-border response - Support long-term planning and investment in resilience With timely, science-based alerts, we move from reacting to anticipating."
 msgstr ""
 
-#: ../index.rst:81
+#: ../index.rst:80
 msgid "What is the Bulletin?"
 msgstr ""
 
-#: ../index.rst:83
+#: ../index.rst:82
 msgid "The Drought Bulletin is a monthly publication offering: - Continental drought monitoring using satellite, ground data, and regional expertise - Drought risk outlooks for the months ahead - Policy-relevant messages to inform early action and coordination - Visuals and maps to quickly interpret severity and spread Whether you’re a policymaker, humanitarian responder, or researcher, the bulletin supports early decision-making and resilience building."
 msgstr ""
 
-#: ../index.rst:91
+#: ../index.rst:90
 msgid "*View the latest bulletin* (link)"
 msgstr ""
 
-#: ../index.rst:96
+#: ../index.rst:95
 msgid "Definitions and Terminology"
 msgstr ""
 
-#: ../index.rst:98
+#: ../index.rst:97
 msgid "**Drought**: A prolonged period of abnormally low rainfall, leading to a shortage of water that can negatively impact agriculture, ecosystems, and human activities"
 msgstr ""
 
-#: ../index.rst:101
+#: ../index.rst:100
 msgid "**Combined Drought Indicator (CDI)**: A multi-variable index used to monitor and assess drought conditions by integrating information from various hydrological and biophysical variables. It is particularly valuable in identifying and tracking agricultural drought, which directly impacts vegetation and crop health. Instead of relying on a single drought indicator, ADW CDI combines three indicators namely: - Standardized Precipitation Index: (SPI-1, SPI-3) - Soil moisture anomaly: (monthly) - Vegetation productivity anomaly using Fraction of Absorbed Photosynthenticaly Active Radiation (fAPAR): (dekadal)"
 msgstr ""
 
-#: ../index.rst:106
+#: ../index.rst:105
 msgid "**Short-term drought**: is a period of unusually dry weather that typically lasts from a few weeks to a few months, caused by a significant rainfall deficit that primarily affects topsoil moisture and surface water sources, often affecting agriculture and ecosystems and increasing wildfire risk. The Bulletin monitors short-term drought using the Combined Drought Indicator (CDI) that integrates rainfall deficit (SPI-1, SPI-3), soil moisture anomaly, and reduced vegetation productivity (fAPAR)"
 msgstr ""
 
-#: ../index.rst:108
+#: ../index.rst:107
 msgid "**Long-term drought**: Droughts that persist for many months or years and impact hydrological systems, groundwater, ecosystems and socio-economic systems. Long-term droughts are typically associated with cumulative rainfall deficits over extended periods. The Bulletin monitors long-term drought using the 12-month Standardized Precipitation Index (SPI-12), which captures rainfall deficit over the past 12 months."
 msgstr ""
 
-#: ../index.rst:110
+#: ../index.rst:109
 msgid "**Types of drought**:"
 msgstr ""
 
-#: ../index.rst:112
+#: ../index.rst:111
 msgid "**Meteorological**: a significant reduction in rainfall compared to the long-term average for a specific region and time period. It is the earliest signal of drought, typically measured using indicators like the Standardized Precipitation Index (SPI-1)"
 msgstr ""
 
-#: ../index.rst:113
+#: ../index.rst:112
 msgid "**Agricultural**: occurs when reduced rainfall and soil moisture limit crop growth, pasture quality, or agricultural productivity. It reflects impact on farming and food systems, and may lag behind meteorological drought"
 msgstr ""
 
-#: ../index.rst:114
+#: ../index.rst:113
 msgid "**Hydrological**: results from prolonged precipitation deficits that lead to reduced streamflow, groundwater levels, reservoir storage, and water availability. It affects water supply systems, energy production, and ecosystem health and typically develops slowly but lasts longer."
 msgstr ""
 
-#: ../index.rst:115
+#: ../index.rst:114
 msgid "**Socio-economic**: arises when water shortages begin to affect people’s daily lives, income and services. It occurs when drought conditions reduce availability of water for households, agriculture, energy, health care, or markets – leading to price hikes, job losses, increased hardship in communities and strain on public services. In the most affected areas, it can result in forced migration, displacement or conflict over scare resources."
 msgstr ""
 
-#: ../index.rst:116
+#: ../index.rst:115
 msgid "**Ecological drought**: occurs when prolonged water shortages disrupt ecosystems – reducing the health, functioning or services provided by forests, wetlands, rangelands or aquatic systems. It can lead to vegetation dieback, wildlife stress or migration, biodiversity loss, and increased vulnerability to wildfires and invasive species. Unlike other drought types focused on people or crops, ecological drought highlights the impacts on nature itself, and how drought threatens the long-term balance of ecosystems."
 msgstr ""
 
-#: ../index.rst:119
+#: ../index.rst:118
 msgid "**Standardized Precipitation Index (SPI)**: The Standardized Precipitation Index, or SPI, is a drought index that captures how observed precipitation deviates from the climatological average over a given time period."
 msgstr ""
 
-#: ../index.rst:123
+#: ../index.rst:122
 msgid "**Soil Moisture Anomaly**: Assesses the deviation of soil moisture from its long-term average, directly indicating water availability for plants and agricultural drought"
 msgstr ""
 
-#: ../index.rst:125
+#: ../index.rst:124
 msgid "**Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) Anomaly**: Derived from satellite observations, this measures how much solar radiation vegetation is absorbing for photosynthesis. Anomalies in FAPAR can indicate vegetation stress due to water scarcity"
 msgstr ""
 
-#: ../index.rst:129
+#: ../index.rst:128
 msgid "Methodology"
 msgstr ""
 
-#: ../index.rst:131
+#: ../index.rst:130
 msgid "The ADW maps give information about drought hazards that could pose a risk to human communities. Current drought conditions are described using two metrics, the Combined Drought Indicator (CDI) and the 12-month Standardized Precipitation Index (SPI-12) which are intended to characterise the drought hazard from fast (short-term) and slow (long-term) processes respectively. CDI combines information on precipitation anomaly, soil moisture anomaly and vegetation anomaly, thus highlighting conditions associated with meteorological and agricultural drought. The SPI-12 is associated with hydrological drought. The bulletin integrates multiple data sources and expert input: - Satellite-derived and model-based drought indices (e.g., SPI, fAPAR, soil moisture) - Seasonal forecasts from RCCs and Global Centers - Impact assessments - Co-production with technical experts and end-users Data is analyzed regionally and validated through collaboration with RECs, RCCs, and national agencies."
 msgstr ""
 
-#: ../index.rst:141
+#: ../index.rst:140
 msgid "How to Use the Bulletin (Interpreting the Legend)"
 msgstr ""
 
-#: ../index.rst:143
+#: ../index.rst:142
 msgid "Key sections include:"
 msgstr ""
 
-#: ../index.rst:145
+#: ../index.rst:144
 msgid "**Drought Situation Overview**: Current status and recent developments"
 msgstr ""
 
-#: ../index.rst:146
+#: ../index.rst:145
 msgid "**Forecast and Early Warning**: Probabilistic forecasts and risk alerts"
 msgstr ""
 
-#: ../index.rst:147
+#: ../index.rst:146
 msgid "**Impacts and Advisories**: Insights for agriculture, water, health, and livelihoods"
 msgstr ""
 
-#: ../index.rst:148
+#: ../index.rst:147
 msgid "**Recommendations**: Suggested early actions"
 msgstr ""
 
-#: ../index.rst:159
+#: ../index.rst:158
 msgid "Frequently Asked Questions"
 msgstr ""
 
-#: ../index.rst:161
+#: ../index.rst:160
 msgid "`Who produces the drought bulletin? <Introduction/faq.html#who-produces>`_"
 msgstr ""
 
-#: ../index.rst:162
+#: ../index.rst:161
 msgid "`How often is the bulletin produced? <Introduction/faq.html#how-often>`_"
 msgstr ""
 
-#: ../index.rst:163
+#: ../index.rst:162
 msgid "`What is the definition of drought? <Introduction/faq.html#definition-of-drought>`_"
 msgstr ""
 
-#: ../index.rst:164
+#: ../index.rst:163
 msgid "`How should I interpret the AMHEWAS drought levels, and what do the different map colors mean? <Introduction/faq.html#amhewas-drought-levels>`_"
 msgstr ""
 
-#: ../index.rst:165
+#: ../index.rst:164
 msgid "`Why is long-term drought or hydrological drought important when looking at current drought? <Introduction/faq.html#long-term-drought>`_"
 msgstr ""
 
-#: ../index.rst:166
+#: ../index.rst:165
 msgid "`Can desert and tropical forest areas experience drought? <Introduction/faq.html#drought-in-forests-deserts>`_"
 msgstr ""
 
-#: ../index.rst:170
+#: ../index.rst:169
 msgid "Donors, Partners, and Contributors"
 msgstr ""
 
-#: ../index.rst:172
+#: ../index.rst:171
 msgid "This bulletin is made possible through collaboration with: Regional Climate Centres **(RCCs)**, Regional Economic Communities **(RECs)**, National Meteorological & Hydrological Services, and Financial and technical supporters"
 msgstr ""

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Africa Drought Bulletin \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 22:26+0300\n"
+"POT-Creation-Date: 2025-07-22 23:15+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -39,12 +39,54 @@ msgid ""
 "production process that brings together continental and regional AMHEWAS "
 "situation rooms, RECS and RCCs."
 msgstr ""
+"Le Bulletin Africa Drought Watch (ADW) est la ressource de l’Afrique pour le suivi "
+"et l’anticipation des conditions de sécheresse à travers le continent. Produit "
+"mensuellement par la Commission de l’Union africaine via le programme du Système "
+"d’Alerte Précoce et d’Action Multirisques pour l’Afrique (AMHEWAS), le bulletin "
+"fournit des informations opportunes pour éclairer la préparation, l’action anticipée, "
+"la réponse, la récupération et les décisions politiques pour renforcer la résilience "
+"à long terme. L’ADW est un produit mensuel de surveillance et d’alerte précoce de la "
+"sécheresse fournissant une analyse holistique et complète des conditions de sécheresse "
+"à court et long terme (lien vers la section) ainsi que des impacts associés à travers "
+"le continent africain. En intégrant les informations des prévisions saisonnières, le bulletin "
+"offre une vue d’ensemble/estimation des impacts et tendances projetés, informant "
+"l’action proactive/anticipative et la construction de résilience. Pour assurer l’inclusivité, "
+"le bulletin ADW est généré via une approche collaborative et inclusive à travers un "
+"processus de co-production réunissant les salles de situation continentales et régionales "
+"d’AMHEWAS, les Communautés Économiques Régionales (RECs) et les Centres Régionaux "
+"de Climat (RCCs)."
 
-#: ../index.rst:70
-msgid "Why it matters"
+#: ../index.rst:32
+msgid "**Subscribe to the bulletin**"
+msgstr "**Abonnez-vous au bulletin**"
+
+#: ../index.rst:34
+msgid ""
+"Join our growing network of drought risk, early warning, anticipatory "
+"action, and DRR professionals, policymakers, and humanitarian actors. "
+"Subscribers receive:"
 msgstr ""
+"Rejoignez notre réseau croissant de professionnels du risque de sécheresse, d’alerte précoce, "
+"d’action anticipative et de réduction des risques de catastrophe, de décideurs et d’acteurs humanitaires. "
+"Les abonnés reçoivent :"
 
-#: ../index.rst:72
+#: ../index.rst:36
+msgid "The latest bulletin in their inbox"
+msgstr "Le dernier bulletin dans leur boîte de réception"
+
+#: ../index.rst:37
+msgid "Updates on drought outlooks and special advisories"
+msgstr "Mises à jour sur les perspectives de sécheresse et les avis spéciaux"
+
+#: ../index.rst:38
+msgid "Periodic policy briefs"
+msgstr "Notes politiques périodiques"
+
+#: ../index.rst:69
+msgid "Why it matters"
+msgstr "Pourquoi c’est important"
+
+#: ../index.rst:71
 msgid ""
 "Africa faces more frequent, severe, and prolonged droughts. Drought "
 "monitoring and early warning are critical in mitigating and managing "
@@ -54,12 +96,19 @@ msgid ""
 "response - Support long-term planning and investment in resilience With "
 "timely, science-based alerts, we move from reacting to anticipating."
 msgstr ""
+"L’Afrique fait face à des sécheresses plus fréquentes, sévères et prolongées. "
+"La surveillance et l’alerte précoce des sécheresses sont essentielles pour atténuer et gérer "
+"les risques et urgences liés à la sécheresse. L’Afrique doit être mieux préparée. "
+"Le Bulletin de Sécheresse aide à : - Déclencher des actions anticipatives avant l’aggravation des impacts "
+"- Informer la coordination régionale et les réponses transfrontalières "
+"- Soutenir la planification à long terme et l’investissement dans la résilience. "
+"Avec des alertes opportunes basées sur la science, nous passons de la réaction à l’anticipation."
 
-#: ../index.rst:81
+#: ../index.rst:80
 msgid "What is the Bulletin?"
-msgstr ""
+msgstr "Qu’est-ce que le Bulletin ?"
 
-#: ../index.rst:83
+#: ../index.rst:82
 msgid ""
 "The Drought Bulletin is a monthly publication offering: - Continental "
 "drought monitoring using satellite, ground data, and regional expertise -"
@@ -69,23 +118,31 @@ msgid ""
 "responder, or researcher, the bulletin supports early decision-making and"
 " resilience building."
 msgstr ""
+"Le Bulletin de Sécheresse est une publication mensuelle offrant : - Une surveillance continentale "
+"de la sécheresse grâce aux données satellitaires, terrestres et à l’expertise régionale - "
+"Des perspectives des risques de sécheresse pour les mois à venir - Des messages pertinents pour les politiques "
+"pour informer les actions précoces et la coordination - Des visuels et cartes pour interpréter rapidement "
+"la gravité et la propagation. Que vous soyez décideur politique, intervenant humanitaire ou chercheur, "
+"le bulletin soutient la prise de décision précoce et le renforcement de la résilience."
 
-#: ../index.rst:91
+#: ../index.rst:90
 msgid "*View the latest bulletin* (link)"
-msgstr ""
+msgstr "*Voir le dernier bulletin* (lien)"
 
-#: ../index.rst:96
+#: ../index.rst:95
 msgid "Definitions and Terminology"
-msgstr ""
+msgstr "Définitions et terminologie"
 
-#: ../index.rst:98
+#: ../index.rst:97
 msgid ""
 "**Drought**: A prolonged period of abnormally low rainfall, leading to a "
 "shortage of water that can negatively impact agriculture, ecosystems, and"
 " human activities"
 msgstr ""
+"**Sécheresse** : Une période prolongée de précipitations anormalement faibles, entraînant une pénurie d’eau "
+"qui peut affecter négativement l’agriculture, les écosystèmes et les activités humaines."
 
-#: ../index.rst:101
+#: ../index.rst:100
 msgid ""
 "**Combined Drought Indicator (CDI)**: A multi-variable index used to "
 "monitor and assess drought conditions by integrating information from "
@@ -97,8 +154,13 @@ msgid ""
 " (monthly) - Vegetation productivity anomaly using Fraction of Absorbed "
 "Photosynthenticaly Active Radiation (fAPAR): (dekadal)"
 msgstr ""
+"**Indicateur Combiné de Sécheresse (CDI)** : Un indice multivarié utilisé pour surveiller et évaluer les conditions de sécheresse "
+"en intégrant des informations provenant de diverses variables hydrologiques et biophysiques. "
+"Il est particulièrement utile pour identifier et suivre la sécheresse agricole, qui impacte directement la végétation et la santé des cultures. "
+"Au lieu de se fier à un seul indicateur de sécheresse, l’ADW CDI combine trois indicateurs, à savoir : - "
+"L’Indice de Précipitations Standardisé : (SPI-1, SPI-3) - Anomalie d’humidité du sol : (mensuelle) - Anomalie de productivité végétale utilisant la Fraction de Radiation Photosynthétiquement Active absorbée (fAPAR) : (décadaire)"
 
-#: ../index.rst:106
+#: ../index.rst:105
 msgid ""
 "**Short-term drought**: is a period of unusually dry weather that "
 "typically lasts from a few weeks to a few months, caused by a significant"
@@ -109,8 +171,13 @@ msgid ""
 " SPI-3), soil moisture anomaly, and reduced vegetation productivity "
 "(fAPAR)"
 msgstr ""
+"**Sécheresse à court terme** : période de temps inhabituellement sèche durant généralement de quelques semaines à quelques mois, "
+"due à un déficit significatif de précipitations affectant principalement l’humidité du sol superficiel et les sources d’eau de surface, "
+"impactant souvent l’agriculture et les écosystèmes, et augmentant le risque d’incendies de forêt. "
+"Le Bulletin surveille la sécheresse à court terme à l’aide de l’Indicateur Combiné de Sécheresse (CDI) qui intègre le déficit pluviométrique (SPI-1, SPI-3), "
+"l’anomalie de l’humidité du sol et la réduction de la productivité végétale (fAPAR)."
 
-#: ../index.rst:108
+#: ../index.rst:107
 msgid ""
 "**Long-term drought**: Droughts that persist for many months or years and"
 " impact hydrological systems, groundwater, ecosystems and socio-economic "
@@ -119,36 +186,47 @@ msgid ""
 "drought using the 12-month Standardized Precipitation Index (SPI-12), "
 "which captures rainfall deficit over the past 12 months."
 msgstr ""
+"**Sécheresse à long terme** : sécheresses qui persistent pendant plusieurs mois voire des années et affectent les systèmes hydrologiques, "
+"les eaux souterraines, les écosystèmes et les systèmes socio-économiques. "
+"Les sécheresses à long terme sont généralement associées à des déficits cumulatifs de précipitations sur de longues périodes. "
+"Le Bulletin surveille la sécheresse à long terme à l’aide de l’Indice de Précipitations Standardisé sur 12 mois (SPI-12), "
+"qui mesure le déficit pluviométrique sur les 12 derniers mois."
 
-#: ../index.rst:110
+#: ../index.rst:109
 msgid "**Types of drought**:"
-msgstr ""
+msgstr "**Types de sécheresse :**"
 
-#: ../index.rst:112
+#: ../index.rst:111
 msgid ""
 "**Meteorological**: a significant reduction in rainfall compared to the "
 "long-term average for a specific region and time period. It is the "
 "earliest signal of drought, typically measured using indicators like the "
 "Standardized Precipitation Index (SPI-1)"
 msgstr ""
+"**Météorologique** : réduction significative des précipitations par rapport à la moyenne à long terme pour une région et une période données. "
+"C’est le premier signe de sécheresse, généralement mesuré à l’aide d’indicateurs comme l’Indice de Précipitations Standardisé (SPI-1)."
 
-#: ../index.rst:113
+#: ../index.rst:112
 msgid ""
 "**Agricultural**: occurs when reduced rainfall and soil moisture limit "
 "crop growth, pasture quality, or agricultural productivity. It reflects "
 "impact on farming and food systems, and may lag behind meteorological "
 "drought"
 msgstr ""
+"**Agricole** : survient lorsque la réduction des précipitations et de l’humidité du sol limite la croissance des cultures, la qualité des pâturages ou la productivité agricole. "
+"Elle reflète l’impact sur l’agriculture et les systèmes alimentaires, et peut suivre avec un certain retard la sécheresse météorologique."
 
-#: ../index.rst:114
+#: ../index.rst:113
 msgid ""
 "**Hydrological**: results from prolonged precipitation deficits that lead"
 " to reduced streamflow, groundwater levels, reservoir storage, and water "
 "availability. It affects water supply systems, energy production, and "
 "ecosystem health and typically develops slowly but lasts longer."
 msgstr ""
+"**Hydrologique** : résulte de déficits prolongés de précipitations qui entraînent une diminution des débits des cours d’eau, des niveaux des nappes phréatiques, des réserves des réservoirs et de la disponibilité de l’eau. "
+"Elle affecte les systèmes d’approvisionnement en eau, la production d’énergie et la santé des écosystèmes, se développant généralement lentement mais durant plus longtemps."
 
-#: ../index.rst:115
+#: ../index.rst:114
 msgid ""
 "**Socio-economic**: arises when water shortages begin to affect people’s "
 "daily lives, income and services. It occurs when drought conditions "
@@ -158,8 +236,11 @@ msgid ""
 "areas, it can result in forced migration, displacement or conflict over "
 "scare resources."
 msgstr ""
+"**Socio-économique** : survient lorsque les pénuries d’eau commencent à affecter la vie quotidienne, les revenus et les services des populations. "
+"Elle se produit lorsque les conditions de sécheresse réduisent la disponibilité de l’eau pour les ménages, l’agriculture, l’énergie, la santé ou les marchés — entraînant des hausses de prix, des pertes d’emploi, des difficultés accrues dans les communautés et une pression sur les services publics. "
+"Dans les zones les plus touchées, cela peut provoquer des migrations forcées, des déplacements ou des conflits pour des ressources rares."
 
-#: ../index.rst:116
+#: ../index.rst:115
 msgid ""
 "**Ecological drought**: occurs when prolonged water shortages disrupt "
 "ecosystems – reducing the health, functioning or services provided by "
@@ -170,35 +251,39 @@ msgid ""
 "the impacts on nature itself, and how drought threatens the long-term "
 "balance of ecosystems."
 msgstr ""
+"**Sécheresse écologique** : se produit lorsque des pénuries d’eau prolongées perturbent les écosystèmes — réduisant la santé, le fonctionnement ou les services fournis par les forêts, zones humides, parcours ou systèmes aquatiques. "
+"Elle peut entraîner la mortalité de la végétation, le stress ou la migration de la faune, la perte de biodiversité et une vulnérabilité accrue aux incendies et aux espèces invasives. "
+"Contrairement aux autres types de sécheresse centrés sur les populations ou les cultures, la sécheresse écologique met en lumière les impacts sur la nature elle-même et la menace qu’elle fait peser sur l’équilibre à long terme des écosystèmes."
 
-#: ../index.rst:119
+#: ../index.rst:118
 msgid ""
 "**Standardized Precipitation Index (SPI)**: The Standardized "
 "Precipitation Index, or SPI, is a drought index that captures how "
 "observed precipitation deviates from the climatological average over a "
 "given time period."
 msgstr ""
+"**Indice de Précipitations Standardisé (SPI)** : L’indice de précipitations standardisé, ou SPI, est un indice de sécheresse qui mesure dans quelle mesure les précipitations observées s’écartent de la moyenne climatologique sur une période donnée."
 
-#: ../index.rst:123
+#: ../index.rst:122
 msgid ""
 "**Soil Moisture Anomaly**: Assesses the deviation of soil moisture from "
 "its long-term average, directly indicating water availability for plants "
 "and agricultural drought"
-msgstr ""
+msgstr "**Anomalie de l'humidité du sol** : Évalue l'écart de l'humidité du sol par rapport à sa moyenne à long terme, indiquant directement la disponibilité en eau pour les plantes et la sécheresse agricole."
 
-#: ../index.rst:125
+#: ../index.rst:124
 msgid ""
 "**Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) "
 "Anomaly**: Derived from satellite observations, this measures how much "
 "solar radiation vegetation is absorbing for photosynthesis. Anomalies in "
 "FAPAR can indicate vegetation stress due to water scarcity"
-msgstr ""
+msgstr "**Anomalie de la fraction du rayonnement photosynthétiquement actif absorbé (FAPAR)** : Issue d'observations satellitaires, cette mesure indique la quantité de rayonnement solaire absorbée par la végétation pour la photosynthèse. Les anomalies du FAPAR peuvent indiquer un stress végétal dû à un manque d'eau."
 
-#: ../index.rst:129
+#: ../index.rst:128
 msgid "Methodology"
-msgstr ""
+msgstr "Méthodologie"
 
-#: ../index.rst:131
+#: ../index.rst:130
 msgid ""
 "The ADW maps give information about drought hazards that could pose a "
 "risk to human communities. Current drought conditions are described using"
@@ -215,80 +300,82 @@ msgid ""
 "production with technical experts and end-users Data is analyzed "
 "regionally and validated through collaboration with RECs, RCCs, and "
 "national agencies."
-msgstr ""
+msgstr "Les cartes de l’ADW fournissent des informations sur les aléas liés à la sécheresse susceptibles de présenter un risque pour les communautés humaines. Les conditions actuelles de sécheresse sont décrites à l’aide de deux indicateurs : l’Indicateur de Sécheresse Combiné (CDI) et l’Indice de Précipitations Standardisé sur 12 mois (SPI-12), qui caractérisent respectivement les processus rapides (court terme) et lents (long terme) de la sécheresse. Le CDI combine les anomalies de précipitations, d'humidité du sol et de végétation, mettant en évidence les conditions liées à la sécheresse météorologique et agricole. Le SPI-12 est associé à la sécheresse hydrologique. Le bulletin intègre plusieurs sources de données et contributions d'experts : - Indices de sécheresse dérivés de satellites et de modèles (par ex. SPI, fAPAR, humidité du sol) - Prévisions saisonnières des CRC et centres mondiaux - Évaluations des impacts - Co-production avec des experts techniques et utilisateurs finaux. Les données sont analysées au niveau régional et validées en collaboration avec les CER, CRC et agences nationales."
 
-#: ../index.rst:141
+#: ../index.rst:122
+msgid "**Soil Moisture Anomaly**: Assesses the deviation of soil moisture from its long-term average, directly indicating water availability for plants and agricultural drought"
+msgstr "**Anomalie de l'humidité du sol** : Évalue l'écart de l'humidité du sol par rapport à sa moyenne à long terme, indiquant directement la disponibilité en eau pour les plantes et la sécheresse agricole."
+
+#: ../index.rst:124
+msgid "**Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) Anomaly**: Derived from satellite observations, this measures how much solar radiation vegetation is absorbing for photosynthesis. Anomalies in FAPAR can indicate vegetation stress due to water scarcity"
+msgstr "**Anomalie de la fraction du rayonnement photosynthétiquement actif absorbé (FAPAR)** : Dérivée d'observations satellitaires, elle mesure la quantité de rayonnement solaire absorbée par la végétation pour la photosynthèse. Les anomalies de FAPAR peuvent indiquer un stress de la végétation dû à un manque d'eau."
+
+#: ../index.rst:128
+msgid "Methodology"
+msgstr "Méthodologie"
+
+#: ../index.rst:130
+msgid "The ADW maps give information about drought hazards that could pose a risk to human communities. Current drought conditions are described using two metrics, the Combined Drought Indicator (CDI) and the 12-month Standardized Precipitation Index (SPI-12) which are intended to characterise the drought hazard from fast (short-term) and slow (long-term) processes respectively. CDI combines information on precipitation anomaly, soil moisture anomaly and vegetation anomaly, thus highlighting conditions associated with meteorological and agricultural drought. The SPI-12 is associated with hydrological drought. The bulletin integrates multiple data sources and expert input: - Satellite-derived and model-based drought indices (e.g., SPI, fAPAR, soil moisture) - Seasonal forecasts from RCCs and Global Centers - Impact assessments - Co-production with technical experts and end-users Data is analyzed regionally and validated through collaboration with RECs, RCCs, and national agencies."
+msgstr "Les cartes de l'ADW fournissent des informations sur les dangers liés à la sécheresse pouvant représenter un risque pour les communautés humaines. Les conditions actuelles de sécheresse sont décrites à l'aide de deux indicateurs : l'Indicateur combiné de sécheresse (CDI) et l'Indice de précipitations normalisé sur 12 mois (SPI-12), qui caractérisent respectivement les dangers liés aux processus rapides (court terme) et lents (long terme). Le CDI combine des informations sur les anomalies de précipitations, d'humidité du sol et de végétation, mettant ainsi en évidence les conditions associées à la sécheresse météorologique et agricole. Le SPI-12 est lié à la sécheresse hydrologique. Le bulletin intègre plusieurs sources de données et les avis d'experts : - Indices de sécheresse dérivés des satellites et des modèles (par ex. SPI, fAPAR, humidité du sol) - Prévisions saisonnières des RCCs et centres mondiaux - Évaluations des impacts - Coproduction avec des experts techniques et des utilisateurs finaux. Les données sont analysées régionalement et validées en collaboration avec les RECs, RCCs et agences nationales."
+
+#: ../index.rst:140
 msgid "How to Use the Bulletin (Interpreting the Legend)"
-msgstr ""
+msgstr "Comment utiliser le bulletin (Interprétation de la légende)"
 
-#: ../index.rst:143
+#: ../index.rst:142
 msgid "Key sections include:"
-msgstr ""
+msgstr "Les sections clés comprennent :"
+
+#: ../index.rst:144
+msgid "**Drought Situation Overview**: Current status and recent developments"
+msgstr "**Aperçu de la situation de sécheresse** : État actuel et évolutions récentes"
 
 #: ../index.rst:145
-msgid "**Drought Situation Overview**: Current status and recent developments"
-msgstr ""
+msgid "**Forecast and Early Warning**: Probabilistic forecasts and risk alerts"
+msgstr "**Prévisions et alertes précoces** : Prévisions probabilistes et alertes de risque"
 
 #: ../index.rst:146
-msgid "**Forecast and Early Warning**: Probabilistic forecasts and risk alerts"
-msgstr ""
+msgid "**Impacts and Advisories**: Insights for agriculture, water, health, and livelihoods"
+msgstr "**Impacts et avis** : Informations utiles pour l'agriculture, l'eau, la santé et les moyens de subsistance"
 
 #: ../index.rst:147
-msgid ""
-"**Impacts and Advisories**: Insights for agriculture, water, health, and "
-"livelihoods"
-msgstr ""
-
-#: ../index.rst:148
 msgid "**Recommendations**: Suggested early actions"
-msgstr ""
+msgstr "**Recommandations** : Actions précoces suggérées"
 
-#: ../index.rst:159
+#: ../index.rst:158
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Questions fréquemment posées"
+
+#: ../index.rst:160
+msgid "`Who produces the drought bulletin? <Introduction/faq.html#who-produces>`_"
+msgstr "`Qui produit le bulletin sur la sécheresse ? <Introduction/faq.html#who-produces>`_"
 
 #: ../index.rst:161
-msgid "`Who produces the drought bulletin? <Introduction/faq.html#who-produces>`_"
-msgstr ""
+msgid "`How often is the bulletin produced? <Introduction/faq.html#how-often>`_"
+msgstr "`À quelle fréquence le bulletin est-il produit ? <Introduction/faq.html#how-often>`_"
 
 #: ../index.rst:162
-msgid "`How often is the bulletin produced? <Introduction/faq.html#how-often>`_"
-msgstr ""
+msgid "`What is the definition of drought? <Introduction/faq.html#definition-of-drought>`_"
+msgstr "`Quelle est la définition de la sécheresse ? <Introduction/faq.html#definition-of-drought>`_"
 
 #: ../index.rst:163
-msgid ""
-"`What is the definition of drought? <Introduction/faq.html#definition-of-"
-"drought>`_"
-msgstr ""
+msgid "`How should I interpret the AMHEWAS drought levels, and what do the different map colors mean? <Introduction/faq.html#amhewas-drought-levels>`_"
+msgstr "`Comment interpréter les niveaux de sécheresse AMHEWAS et que signifient les différentes couleurs de la carte ? <Introduction/faq.html#amhewas-drought-levels>`_"
 
 #: ../index.rst:164
-msgid ""
-"`How should I interpret the AMHEWAS drought levels, and what do the "
-"different map colors mean? <Introduction/faq.html#amhewas-drought-"
-"levels>`_"
-msgstr ""
+msgid "`Why is long-term drought or hydrological drought important when looking at current drought? <Introduction/faq.html#long-term-drought>`_"
+msgstr "`Pourquoi la sécheresse à long terme ou la sécheresse hydrologique est-elle importante pour évaluer la sécheresse actuelle ? <Introduction/faq.html#long-term-drought>`_"
 
 #: ../index.rst:165
-msgid ""
-"`Why is long-term drought or hydrological drought important when looking "
-"at current drought? <Introduction/faq.html#long-term-drought>`_"
-msgstr ""
+msgid "`Can desert and tropical forest areas experience drought? <Introduction/faq.html#drought-in-forests-deserts>`_"
+msgstr "`Les zones désertiques et les forêts tropicales peuvent-elles connaître la sécheresse ? <Introduction/faq.html#drought-in-forests-deserts>`_"
 
-#: ../index.rst:166
-msgid ""
-"`Can desert and tropical forest areas experience drought? "
-"<Introduction/faq.html#drought-in-forests-deserts>`_"
-msgstr ""
-
-#: ../index.rst:170
+#: ../index.rst:169
 msgid "Donors, Partners, and Contributors"
-msgstr ""
+msgstr "Bailleurs de fonds, partenaires et contributeurs"
 
-#: ../index.rst:172
-msgid ""
-"This bulletin is made possible through collaboration with: Regional "
-"Climate Centres **(RCCs)**, Regional Economic Communities **(RECs)**, "
-"National Meteorological & Hydrological Services, and Financial and "
-"technical supporters"
-msgstr ""
+#: ../index.rst:171
+msgid "This bulletin is made possible through collaboration with: Regional Climate Centres **(RCCs)**, Regional Economic Communities **(RECs)**, National Meteorological & Hydrological Services, and Financial and technical supporters"
+msgstr "Ce bulletin est rendu possible grâce à la collaboration avec : les Centres climatiques régionaux **(RCCs)**, les Communautés économiques régionales **(RECs)**, les Services météorologiques et hydrologiques nationaux, ainsi que les soutiens financiers et techniques."
+
 

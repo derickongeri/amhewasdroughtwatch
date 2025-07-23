@@ -66,3 +66,23 @@ h2 {
   font-size: 1em;
 }
 
+.custom-box {
+  border: 2px solid #b4a269;
+  padding: 1.5em;
+  border-radius: 10px;
+  background-color: #b4a269;
+  margin: 1.5em;
+  color: white;
+}
+
+.custom-box h2,
+.custom-box p,
+.custom-box li {
+  color: white;
+  margin-left: 1.5em;
+}
+
+.custom-box ul {
+  margin-left: 1.2em;
+  font-size: 1em;
+}

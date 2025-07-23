@@ -22,11 +22,11 @@ msgstr ""
 
 #: ../Introduction/faq.rst:2
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Perguntas Frequentes"
 
 #: ../Introduction/faq.rst:7
 msgid "Who produces the drought bulletin?"
-msgstr ""
+msgstr "Quem produz o boletim de seca?"
 
 #: ../Introduction/faq.rst:9
 msgid ""
@@ -38,10 +38,16 @@ msgid ""
 "ground realities, scientific accuracy, and the needs of diverse "
 "stakeholders."
 msgstr ""
+"O Boletim de Secas é produzido pela Comissão da União Africana (CUA) "
+"através do programa AMHEWAS, utilizando um processo colaborativo e inclusivo "
+"de coprodução. Reúne a expertise das Salas de Situação AMHEWAS continentais e regionais, "
+"das Comunidades Económicas Regionais (CERs) e dos Centros Climáticos Regionais (CCRs), "
+"para garantir que o boletim reflita as realidades locais, a precisão científica e as necessidades "
+"dos diversos interessados."
 
 #: ../Introduction/faq.rst:14
 msgid "How often is the bulletin produced?"
-msgstr ""
+msgstr "Com que frequência o boletim é produzido?"
 
 #: ../Introduction/faq.rst:16
 msgid ""
@@ -50,10 +56,14 @@ msgid ""
 "publication also includes a forward-looking outlook based on seasonal "
 "forecasts, highlighting potential drought risks in the months ahead."
 msgstr ""
+"O boletim de seca é produzido e divulgado mensalmente, oferecendo uma análise "
+"atualizada das condições de seca em toda a África. Cada publicação inclui também "
+"uma previsão para o futuro baseada em previsões sazonais, destacando os riscos "
+"potenciais de seca nos meses seguintes."
 
 #: ../Introduction/faq.rst:21
 msgid "What is the definition of drought?"
-msgstr ""
+msgstr "Qual é a definição de seca?"
 
 #: ../Introduction/faq.rst:23
 msgid ""
@@ -62,12 +72,16 @@ msgid ""
 "activities. Drought is about deviation from the norm, not just how dry or"
 " wet a place usually is."
 msgstr ""
+"Um período prolongado de chuvas anormalmente baixas, levando à escassez de água "
+"que pode afetar negativamente a agricultura, os ecossistemas e as atividades humanas. "
+"Seca é uma variação em relação à norma, não apenas quão seco ou úmido um lugar normalmente é."
 
 #: ../Introduction/faq.rst:28
 msgid ""
 "How should I interpret the AMHEWAS drought levels, and what do the "
 "different map colors mean?"
 msgstr ""
+"Como devo interpretar os níveis de seca do AMHEWAS, e o que significam as diferentes cores no mapa?"
 
 #: ../Introduction/faq.rst:30
 msgid ""
@@ -77,6 +91,10 @@ msgid ""
 "moves from early monitoring to full-scale emergency response, guiding "
 "both technical experts and decision-makers:"
 msgstr ""
+"Os níveis de seca do AMHEWAS fornecem uma forma padronizada de avaliar a gravidade das condições de seca, "
+"seus impactos potenciais, e o nível de governança responsável pela resposta e coordenação. "
+"A escala vai desde a monitorização precoce até a resposta de emergência em larga escala, orientando "
+"tanto os especialistas técnicos quanto os tomadores de decisão:"
 
 #: ../Introduction/faq.rst:32
 msgid ""
@@ -84,6 +102,8 @@ msgid ""
 "limited impacts. Close monitoring is recommended. Monitoring by technical"
 " agencies at sub-national level."
 msgstr ""
+"**Nível 1 (verde claro)** - Primeiros sinais de precipitação abaixo da média; impactos limitados. "
+"Recomenda-se monitorização próxima. Monitoramento feito por agências técnicas a nível subnacional."
 
 #: ../Introduction/faq.rst:33
 msgid ""
@@ -92,6 +112,8 @@ msgid ""
 "local authorities begin preparedness measures and inter-agency cross-"
 "sector coordination."
 msgstr ""
+"**Nível 2 (amarelo)** - Déficits de chuva estão aumentando; primeiros sinais de stress nas culturas, pastagens ou fornecimento de água. "
+"Os ministérios setoriais e autoridades locais iniciam medidas de preparação e coordenação interagencial."
 
 #: ../Introduction/faq.rst:34
 msgid ""
@@ -101,6 +123,9 @@ msgid ""
 "mobilization and intensified response. Regional-level coordination may be"
 " required."
 msgstr ""
+"**Nível 3 (laranja)** - Impactos severos da seca confirmados; meios de subsistência, segurança alimentar e fornecimento de água afetados. "
+"Requer coordenação a nível nacional, ativação de planos de contingência, possível mobilização de recursos e resposta intensificada. "
+"Coordenação regional pode ser necessária."
 
 #: ../Introduction/faq.rst:35
 msgid ""
@@ -109,6 +134,9 @@ msgid ""
 "through RECs, AMHEWAS Situation Rooms, and the African Union. "
 "International support may be mobilized."
 msgstr ""
+"**Nível 4 (vermelho)** - Seca extrema e generalizada com impactos multissetoriais e humanitários. "
+"Desencadeia coordenação regional e continental através das CERs, Salas de Situação AMHEWAS e da União Africana. "
+"O apoio internacional pode ser mobilizado."
 
 #: ../Introduction/faq.rst:37
 msgid ""
@@ -116,12 +144,15 @@ msgid ""
 "expert input, ensuring that appropriate action is taken at the right "
 "level and time."
 msgstr ""
+"Estes níveis são baseados em indicadores científicos, relatórios de impacto e contribuições de especialistas, "
+"assegurando que as ações apropriadas sejam tomadas no momento e nível corretos."
 
 #: ../Introduction/faq.rst:43
 msgid ""
 "Why is long-term drought or hydrological drought important when looking "
 "at current drought?"
 msgstr ""
+"Por que a seca de longo prazo ou seca hidrológica é importante ao analisar a seca atual?"
 
 #: ../Introduction/faq.rst:45
 msgid ""
@@ -132,12 +163,18 @@ msgid ""
 "ecosystems. These sustained shortages strain drinking water supplies, "
 "irrigation systems, energy generation, public health, and food security."
 msgstr ""
+"A seca de longo prazo ou hidrológica é crucial para entender o quadro completo do risco de seca. "
+"Enquanto a seca de curto prazo afeta a umidade do solo e as culturas, a seca de longo prazo reflete "
+"déficits acumulados de água ao longo de meses ou anos — afetando rios, águas subterrâneas, reservatórios e ecossistemas. "
+"Essas faltas prolongadas sobrecarregam o abastecimento de água potável, sistemas de irrigação, geração de energia, saúde pública e segurança alimentar."
 
 #: ../Introduction/faq.rst:47
 msgid ""
 "Even if rains return briefly, long-term drought conditions can persist, "
 "delaying recovery and deepening vulnerabilities."
 msgstr ""
+"Mesmo que as chuvas retornem brevemente, as condições de seca de longo prazo podem persistir, "
+"atrasando a recuperação e aprofundando as vulnerabilidades."
 
 #: ../Introduction/faq.rst:49
 msgid ""
@@ -148,22 +185,27 @@ msgid ""
 "temporary dry spells and prolonged water crises that require sustained, "
 "system-wide responses."
 msgstr ""
+"Isto é especialmente importante para orientar ações estratégicas. Condições de seca de longo prazo "
+"podem indicar a necessidade de restrições no uso da água, investimentos em infraestrutura, apoio aos meios de subsistência e planejamento a longo prazo. "
+"Eles ajudam governos e atores humanitários a distinguir entre períodos secos temporários e crises prolongadas de água que exigem respostas sustentadas e sistêmicas."
 
 #: ../Introduction/faq.rst:51
 msgid ""
 "**In short:** long-term drought monitoring supports informed decisions "
 "that build resilience, not just emergency response."
 msgstr ""
+"**Em resumo:** o monitoramento da seca de longo prazo apoia decisões informadas que constroem resiliência, e não apenas respostas emergenciais."
 
 #: ../Introduction/faq.rst:57
 msgid "Can desert and tropical forest areas experience drought?"
-msgstr ""
+msgstr "Áreas de deserto e florestas tropicais podem sofrer seca?"
 
 #: ../Introduction/faq.rst:59
 msgid ""
 "Yes. Drought can affect both deserts and tropical forests, even though "
 "they represent opposite ends of the climate spectrum."
 msgstr ""
+"Sim. A seca pode afetar tanto desertos quanto florestas tropicais, mesmo que representem extremos opostos do espectro climático."
 
 #: ../Introduction/faq.rst:61
 msgid ""
@@ -171,6 +213,8 @@ msgid ""
 " the already-low average—disrupting fragile ecosystems, water access, and"
 " pastoralist livelihoods."
 msgstr ""
+"Nas regiões desérticas, a seca ocorre quando as chuvas ficam significativamente abaixo da média já baixa — "
+"perturbando ecossistemas frágeis, o acesso à água e os meios de subsistência dos pastores."
 
 #: ../Introduction/faq.rst:63
 msgid ""
@@ -181,10 +225,18 @@ msgid ""
 "increase wildfire risk, reduce river flows, and impact agriculture and "
 "hydropower."
 msgstr ""
+"Nas áreas de florestas tropicais, a seca pode parecer improvável porque essas regiões "
+"normalmente recebem chuvas abundantes. No entanto, a seca ainda pode ocorrer "
+"quando há uma redução acentuada e prolongada na quantidade esperada de "
+"chuva — mesmo que ainda caia alguma chuva. Isso pode estressar os ecossistemas florestais, "
+"aumentar o risco de incêndios florestais, reduzir o fluxo dos rios e afetar a agricultura e "
+"a geração de energia hidrelétrica."
 
 #: ../Introduction/faq.rst:65
 msgid ""
 "Drought is about deviation from the norm, not just how dry or wet a place"
 " usually is."
 msgstr ""
+"A seca é sobre a variação em relação à norma, não apenas sobre o quão seco ou úmido um lugar "
+"normalmente é."
 

@@ -27,27 +27,26 @@
 
 The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking and anticipating drought conditions across the continent. Produced monthly by the African Union Commission through the Africa Multi-Hazard Early Warning and Action System (AMHEWAS) programme, the bulletin provides timely insights to inform preparedness, anticipatory action, response, recovery and policy decisions for longer-term resilience building. The ADW is a monthly drought monitoring and early warning product providing a holistic and comprehensive analysis and overview of ongoing short-term and long-term (link to section) drought conditions and associated impacts across the African continent. By integrating seasonal forecasts information, the bulletin provides an overview/estimation of projected impacts and trends, informing proactive/anticipatory action and response and resilience building. To ensure inclusivity the ADW bulletin is generated through a collaborative and inclusive approach through co-production process that brings together continental and regional AMHEWAS situation rooms, RECS and RCCs.
 
-.. raw:: html
+.. container:: custom-box
 
-    <div style="border: 2px solid #b4a269; padding: 1.5em; border-radius: 1 0px; background-color: #b4a269; margin: 1.5em 0;">
-        <h2 style="color:white; margin-top: 0;font-size: 1.5em;">Subscribe to the bulletin</h2>
-        <p style="font-size: 1.1em; color:white;">
-            Join our growing network of drought risk, early warning, anticipatory action, and DRR professionals,
-            policymakers, and humanitarian actors. Subscribers receive:
-        </p>
-        <ul style="font-size: 1em; margin-left: 1.2em;color:white;">
-            <li>The latest bulletin in their inbox</li>
-            <li>Updates on drought outlooks and special advisories</li>
-            <li>Periodic policy briefs</li>
-        </ul>
-        <div style="margin-top: 1em;">
-            <a href="https://amhewas-drought-bulletin.mailchimpsites.com/subscribe" style="text-decoration: none;">
-                <button style="background-color: #9D1531; color: white; border: none; padding: 0.75em 1.5em; font-size: 1em; border-radius: 5px; cursor: pointer;">
-                    Subscribe Now!
-                </button>
-            </a>
-        </div>
-    </div>
+        **Subscribe to the bulletin**
+
+        Join our growing network of drought risk, early warning, anticipatory action, and DRR professionals, policymakers, and humanitarian actors. Subscribers receive:
+
+        - The latest bulletin in their inbox
+        - Updates on drought outlooks and special advisories
+        - Periodic policy briefs
+
+        .. raw:: html
+
+            <div style="margin-top: 1em;margin-left:1.5em;">
+                <a href="https://amhewas-drought-bulletin.mailchimpsites.com/subscribe" style="text-decoration: none;">
+                    <button style="background-color: #9D1531; color: white; border: none; padding: 0.75em 1.5em; font-size: 1em; border-radius: 5px; cursor: pointer;">
+                        Subscribe Now!
+                    </button>
+                </a>
+            </div>
+
 
 
 

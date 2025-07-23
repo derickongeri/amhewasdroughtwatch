@@ -22,11 +22,11 @@ msgstr ""
 
 #: ../Introduction/faq.rst:2
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Foire Aux Questions"
 
 #: ../Introduction/faq.rst:7
 msgid "Who produces the drought bulletin?"
-msgstr ""
+msgstr "Qui produit le bulletin de sécheresse ?"
 
 #: ../Introduction/faq.rst:9
 msgid ""
@@ -38,10 +38,11 @@ msgid ""
 "ground realities, scientific accuracy, and the needs of diverse "
 "stakeholders."
 msgstr ""
+"Le Bulletin de Sécheresse est produit par la Commission de l’Union Africaine (CUA) à travers le programme AMHEWAS, en utilisant un processus de coproduction collaboratif et inclusif. Il mobilise l’expertise des salles de situation AMHEWAS continentales et régionales, des Communautés Économiques Régionales (CER) et des Centres Climatiques Régionaux (CCR), afin de refléter les réalités du terrain, la rigueur scientifique et les besoins des différentes parties prenantes."
 
 #: ../Introduction/faq.rst:14
 msgid "How often is the bulletin produced?"
-msgstr ""
+msgstr "À quelle fréquence le bulletin est-il produit ?"
 
 #: ../Introduction/faq.rst:16
 msgid ""
@@ -50,10 +51,11 @@ msgid ""
 "publication also includes a forward-looking outlook based on seasonal "
 "forecasts, highlighting potential drought risks in the months ahead."
 msgstr ""
+"Le bulletin de sécheresse est produit et diffusé chaque mois, fournissant une analyse en temps opportun des conditions de sécheresse actuelles en Afrique. Chaque publication inclut également une perspective prospective basée sur les prévisions saisonnières, mettant en évidence les risques de sécheresse potentiels dans les mois à venir."
 
 #: ../Introduction/faq.rst:21
 msgid "What is the definition of drought?"
-msgstr ""
+msgstr "Quelle est la définition d’une sécheresse ?"
 
 #: ../Introduction/faq.rst:23
 msgid ""
@@ -62,12 +64,13 @@ msgid ""
 "activities. Drought is about deviation from the norm, not just how dry or"
 " wet a place usually is."
 msgstr ""
+"Une période prolongée de précipitations anormalement faibles, entraînant une pénurie d’eau pouvant nuire à l’agriculture, aux écosystèmes et aux activités humaines. La sécheresse correspond à une déviation par rapport à la norme, et non simplement à la sécheresse ou l’humidité habituelle d’un endroit."
 
 #: ../Introduction/faq.rst:28
 msgid ""
 "How should I interpret the AMHEWAS drought levels, and what do the "
 "different map colors mean?"
-msgstr ""
+msgstr "Comment interpréter les niveaux de sécheresse AMHEWAS et que signifient les différentes couleurs sur la carte ?"
 
 #: ../Introduction/faq.rst:30
 msgid ""
@@ -77,6 +80,7 @@ msgid ""
 "moves from early monitoring to full-scale emergency response, guiding "
 "both technical experts and decision-makers:"
 msgstr ""
+"Les niveaux de sécheresse AMHEWAS offrent une méthode standardisée pour évaluer la gravité des conditions de sécheresse, leurs impacts potentiels, et le niveau de gouvernance chargé de la réponse et de la coordination. L’échelle va de la surveillance précoce à la réponse d’urgence à grande échelle, servant de guide aux experts techniques et aux décideurs :"
 
 #: ../Introduction/faq.rst:32
 msgid ""
@@ -84,6 +88,7 @@ msgid ""
 "limited impacts. Close monitoring is recommended. Monitoring by technical"
 " agencies at sub-national level."
 msgstr ""
+"**Niveau 1 (vert clair)** - Signes précoces de précipitations inférieures à la moyenne ; impacts limités. Une surveillance étroite est recommandée. Surveillance par les agences techniques au niveau infranational."
 
 #: ../Introduction/faq.rst:33
 msgid ""
@@ -92,6 +97,7 @@ msgid ""
 "local authorities begin preparedness measures and inter-agency cross-"
 "sector coordination."
 msgstr ""
+"**Niveau 2 (jaune)** - Les déficits pluviométriques augmentent ; premiers signes de stress sur les cultures, les pâturages ou les ressources en eau. Les ministères sectoriels et les autorités locales entament les mesures de préparation et la coordination intersectorielle."
 
 #: ../Introduction/faq.rst:34
 msgid ""
@@ -101,6 +107,7 @@ msgid ""
 "mobilization and intensified response. Regional-level coordination may be"
 " required."
 msgstr ""
+"**Niveau 3 (orange)** - Impacts sévères de la sécheresse confirmés ; les moyens de subsistance, la sécurité alimentaire et l’approvisionnement en eau sont affectés. Nécessite une coordination au niveau national, l’activation de plans de contingence, une mobilisation possible des ressources et une intensification de la réponse. Une coordination au niveau régional peut être nécessaire."
 
 #: ../Introduction/faq.rst:35
 msgid ""
@@ -109,6 +116,7 @@ msgid ""
 "through RECs, AMHEWAS Situation Rooms, and the African Union. "
 "International support may be mobilized."
 msgstr ""
+"**Niveau 4 (rouge)** - Sécheresse extrême et généralisée avec des impacts multisectoriels et humanitaires. Déclenche une coordination régionale et continentale à travers les CER, les salles de situation AMHEWAS et l’Union Africaine. Un soutien international peut être mobilisé."
 
 #: ../Introduction/faq.rst:37
 msgid ""
@@ -116,12 +124,14 @@ msgid ""
 "expert input, ensuring that appropriate action is taken at the right "
 "level and time."
 msgstr ""
+"Ces niveaux sont basés sur des indicateurs scientifiques, des rapports d’impact et les avis d’experts, garantissant une action appropriée au bon moment et au bon niveau."
 
 #: ../Introduction/faq.rst:43
 msgid ""
 "Why is long-term drought or hydrological drought important when looking "
 "at current drought?"
 msgstr ""
+"Pourquoi la sécheresse à long terme ou hydrologique est-elle importante dans l’analyse de la sécheresse actuelle ?"
 
 #: ../Introduction/faq.rst:45
 msgid ""
@@ -132,12 +142,14 @@ msgid ""
 "ecosystems. These sustained shortages strain drinking water supplies, "
 "irrigation systems, energy generation, public health, and food security."
 msgstr ""
+"La sécheresse à long terme ou hydrologique est essentielle pour comprendre pleinement le risque de sécheresse. Tandis que la sécheresse à court terme affecte l’humidité du sol et les cultures, la sécheresse à long terme reflète des déficits hydriques cumulatifs sur des mois ou des années — affectant les rivières, les eaux souterraines, les réservoirs et les écosystèmes. Ces pénuries prolongées mettent à rude épreuve l’approvisionnement en eau potable, les systèmes d’irrigation, la production d’énergie, la santé publique et la sécurité alimentaire."
 
 #: ../Introduction/faq.rst:47
 msgid ""
 "Even if rains return briefly, long-term drought conditions can persist, "
 "delaying recovery and deepening vulnerabilities."
 msgstr ""
+"Même si les pluies reviennent temporairement, les conditions de sécheresse à long terme peuvent persister, retardant la reprise et accentuant les vulnérabilités."
 
 #: ../Introduction/faq.rst:49
 msgid ""
@@ -148,22 +160,25 @@ msgid ""
 "temporary dry spells and prolonged water crises that require sustained, "
 "system-wide responses."
 msgstr ""
+"Cela est particulièrement important pour orienter les actions stratégiques. Les conditions de sécheresse à long terme peuvent signaler la nécessité de restrictions d’eau, d’investissements dans les infrastructures, de soutien aux moyens de subsistance et de planification à long terme. Elles aident les gouvernements et les acteurs humanitaires à distinguer les épisodes secs temporaires des crises prolongées nécessitant des réponses durables et systémiques."
 
 #: ../Introduction/faq.rst:51
 msgid ""
 "**In short:** long-term drought monitoring supports informed decisions "
 "that build resilience, not just emergency response."
 msgstr ""
+"**En résumé :** la surveillance de la sécheresse à long terme permet de prendre des décisions éclairées pour renforcer la résilience, au-delà de la simple réponse d’urgence."
 
 #: ../Introduction/faq.rst:57
 msgid "Can desert and tropical forest areas experience drought?"
-msgstr ""
+msgstr "Les zones désertiques et les forêts tropicales peuvent-elles connaître la sécheresse ?"
 
 #: ../Introduction/faq.rst:59
 msgid ""
 "Yes. Drought can affect both deserts and tropical forests, even though "
 "they represent opposite ends of the climate spectrum."
 msgstr ""
+"Oui. La sécheresse peut toucher à la fois les déserts et les forêts tropicales, bien qu’ils se trouvent à des extrêmes opposés du spectre climatique."
 
 #: ../Introduction/faq.rst:61
 msgid ""
@@ -171,6 +186,7 @@ msgid ""
 " the already-low average—disrupting fragile ecosystems, water access, and"
 " pastoralist livelihoods."
 msgstr ""
+"Dans les régions désertiques, la sécheresse se produit lorsque les précipitations chutent bien en dessous d’une moyenne déjà faible — perturbant les écosystèmes fragiles, l’accès à l’eau et les moyens de subsistance des pasteurs."
 
 #: ../Introduction/faq.rst:63
 msgid ""
@@ -181,10 +197,13 @@ msgid ""
 "increase wildfire risk, reduce river flows, and impact agriculture and "
 "hydropower."
 msgstr ""
+"Dans les régions de forêt tropicale, la sécheresse peut sembler improbable car ces zones reçoivent généralement beaucoup de pluie. Cependant, une forte baisse prolongée des précipitations attendues — même si une certaine pluie tombe encore — peut provoquer une sécheresse. Cela peut stresser les écosystèmes forestiers, augmenter les risques d’incendies, réduire les débits des rivières et impacter l’agriculture et l’hydroélectricité."
 
 #: ../Introduction/faq.rst:65
 msgid ""
 "Drought is about deviation from the norm, not just how dry or wet a place"
 " usually is."
 msgstr ""
+"La sécheresse concerne une déviation par rapport à la norme, et non simplement la sécheresse ou l’humidité habituelle d’un lieu."
+
 

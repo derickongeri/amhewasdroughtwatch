@@ -50,6 +50,7 @@ html_sidebars = {
 
 
 html_theme_options = {
+"search_bar_text": _("Search the docs..."),
 "icon_links_label": _("Quick Links"),
 "external_links": [
     # {
