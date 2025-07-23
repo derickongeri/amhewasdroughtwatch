@@ -144,29 +144,33 @@
       
       
         <div class="navbar-item"><div class="language-switcher">
-    <!-- <label for="language-select"><strong>Language:</strong></label> -->
-    <select id="language-select" onchange="switchLanguage(this)">
-      <option value="/en/latest/">English</option>
-      <option value="/fr/latest/">French</option>
-      <option value="/ar/latest/">Arabic</option>
-      <option value="/pt/latest/">Portuguese</option>
-    </select>
-  </div>
-  
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const currentPath = window.location.pathname;
-      const select = document.getElementById('language-select');
-      if (select) {
-        for (let option of select.options) {
-          if (currentPath.startsWith(option.value)) {
-            option.selected = true;
-            break;
-          }
+  <!-- <label for="language-select"><strong>Language:</strong></label> -->
+  <select id="language-select" onchange="switchLanguage(this)">
+    <option value="/en/latest/">English</option>
+    <option value="/fr/latest/">French</option>
+    <option value="/ar/latest/">Arabic</option>
+    <option value="/pt/latest/">Portuguese</option>
+  </select>
+</div>
+
+<script>
+  function switchLanguage(selectElement) {
+    const selectedUrl = selectElement.value;
+    window.location.href = selectedUrl;
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    const currentPath = window.location.pathname;
+    const select = document.getElementById("language-select");
+    if (select) {
+      for (let option of select.options) {
+        if (currentPath.startsWith(option.value)) {
+          option.selected = true;
+          break;
         }
       }
-    });
-  </script></div>
+    }
+  });
+</script></div>
       
     </div>
     
@@ -220,29 +224,33 @@
       <div class="sidebar-header-items__end">
         
           <div class="navbar-item"><div class="language-switcher">
-    <!-- <label for="language-select"><strong>Language:</strong></label> -->
-    <select id="language-select" onchange="switchLanguage(this)">
-      <option value="/en/latest/">English</option>
-      <option value="/fr/latest/">French</option>
-      <option value="/ar/latest/">Arabic</option>
-      <option value="/pt/latest/">Portuguese</option>
-    </select>
-  </div>
-  
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const currentPath = window.location.pathname;
-      const select = document.getElementById('language-select');
-      if (select) {
-        for (let option of select.options) {
-          if (currentPath.startsWith(option.value)) {
-            option.selected = true;
-            break;
-          }
+  <!-- <label for="language-select"><strong>Language:</strong></label> -->
+  <select id="language-select" onchange="switchLanguage(this)">
+    <option value="/en/latest/">English</option>
+    <option value="/fr/latest/">French</option>
+    <option value="/ar/latest/">Arabic</option>
+    <option value="/pt/latest/">Portuguese</option>
+  </select>
+</div>
+
+<script>
+  function switchLanguage(selectElement) {
+    const selectedUrl = selectElement.value;
+    window.location.href = selectedUrl;
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    const currentPath = window.location.pathname;
+    const select = document.getElementById("language-select");
+    if (select) {
+      for (let option of select.options) {
+        if (currentPath.startsWith(option.value)) {
+          option.selected = true;
+          break;
         }
       }
-    });
-  </script></div>
+    }
+  });
+</script></div>
         
       </div>
     
