@@ -153,10 +153,18 @@
   </div>
   
   <script>
-    function switchLanguage(selectElement) {
-      const selectedUrl = selectElement.value;
-      window.location.href = selectedUrl;
-    }
+    document.addEventListener('DOMContentLoaded', function () {
+      const currentPath = window.location.pathname;
+      const select = document.getElementById('language-select');
+      if (select) {
+        for (let option of select.options) {
+          if (currentPath.startsWith(option.value)) {
+            option.selected = true;
+            break;
+          }
+        }
+      }
+    });
   </script></div>
       
     </div>
@@ -221,10 +229,18 @@
   </div>
   
   <script>
-    function switchLanguage(selectElement) {
-      const selectedUrl = selectElement.value;
-      window.location.href = selectedUrl;
-    }
+    document.addEventListener('DOMContentLoaded', function () {
+      const currentPath = window.location.pathname;
+      const select = document.getElementById('language-select');
+      if (select) {
+        for (let option of select.options) {
+          if (currentPath.startsWith(option.value)) {
+            option.selected = true;
+            break;
+          }
+        }
+      }
+    });
   </script></div>
         
       </div>
