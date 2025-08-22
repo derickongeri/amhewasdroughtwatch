@@ -33,7 +33,7 @@ To ensure inclusivity the ADW bulletin is generated through a collaborative and 
 
    .. raw:: html
 
-    <a href="https://amhewas-drought-bulletin.mailchimpsites.com/subscribe" style="display:inline-block; padding:10px 20px; background:#007BFF; color:#fff; text-decoration:none; border-radius:5px;">
+    <a href="https://amhewas.mailchimpsites.com/" style="display:inline-block; padding:10px 20px; background:#007BFF; color:#fff; text-decoration:none; border-radius:5px;">
         Subscribe Now!
     </a>
 
@@ -64,9 +64,6 @@ The Drought Bulletin is a monthly publication offering:
 
 Whether you’re a policymaker, humanitarian responder, or researcher, the bulletin supports
 early decision-making and resilience building.
-
-*View the latest bulletin* (link)
-
 
 
 Definitions and Terminology
