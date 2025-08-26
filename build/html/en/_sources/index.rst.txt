@@ -40,7 +40,7 @@ The Africa Drought Watch (ADW) Bulletin is Africa’s resource for tracking and 
         .. raw:: html
 
             <div style="margin-top: 1em;margin-left:1.5em;">
-                <a href="https://amhewas-drought-bulletin.mailchimpsites.com/subscribe" style="text-decoration: none;">
+                <a href="https://amhewas.mailchimpsites.com/" style="text-decoration: none;">
                     <button style="background-color: #9D1531; color: white; border: none; padding: 0.75em 1.5em; font-size: 1em; border-radius: 5px; cursor: pointer;">
                         Subscribe Now!
                     </button>
